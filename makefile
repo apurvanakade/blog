@@ -1,7 +1,7 @@
 all: clean build
 
 clean:
-	rm -rf ../gh-pages/blog
+	rm -rf ./docs
 
 build:
 	hugo
