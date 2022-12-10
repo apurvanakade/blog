@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://apurvanakade.github.io/blog/journal/</loc>
+    <loc>https://apurvanakade.github.io/blog/notes/books/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/journal/northwestern/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/notes/movies/</loc>
-    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/journal/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/journal/northwestern/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/notes/movies/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/random/meditation/</loc>
@@ -22,9 +25,6 @@
   </url><url>
     <loc>https://apurvanakade.github.io/blog/random/stray-thoughts/</loc>
     <lastmod>2021-10-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/notes/books/</loc>
-    <lastmod>2021-10-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/random/philosophy/</loc>
     <lastmod>2021-09-02T00:00:00+00:00</lastmod>
@@ -61,16 +61,28 @@
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/lists/</loc>
   </url><url>
-    <loc>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</loc>
+    <loc>https://apurvanakade.github.io/blog/tags/dystopia/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/</loc>
     <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://apurvanakade.github.io/blog/tags/comedy/</loc>
-    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+    <loc>https://apurvanakade.github.io/blog/tags/sci-fi/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/tags/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/notes/books/the-peripheral/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/tags/william-gibson/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</loc>
+    <lastmod>2022-12-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/tags/comedy/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/movies/french-dispatch/</loc>
@@ -242,9 +254,6 @@
     <lastmod>2020-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/tags/comics/</loc>
-    <lastmod>2020-09-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/tags/sci-fi/</loc>
     <lastmod>2020-09-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/series/theumbrellaacademy/</loc>
@@ -452,9 +461,6 @@
     <lastmod>2018-09-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/tags/cyberpunk/</loc>
-    <lastmod>2018-09-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/tags/gibson/</loc>
     <lastmod>2018-09-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/books/neuromancer/</loc>

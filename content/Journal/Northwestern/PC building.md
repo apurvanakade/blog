@@ -1,6 +1,6 @@
 ---
 title: "PC Building"
-date: 2022-12-10
+date: 2022-12-09
 tags : []
 type : "post"
 ---

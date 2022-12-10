@@ -1,7 +1,7 @@
 ---
 title: "Neuromancer"
 date: 2018-09-19T00:00:00-00:00
-tags : ["Gibson", "sci-fi", "cyberpunk"]
+tags : ["William-Gibson", "sci-fi", "cyberpunk"]
 type : "post"
 ---
 
