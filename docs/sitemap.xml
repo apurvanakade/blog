@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://apurvanakade.github.io/blog/journal/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/journal/northwestern/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/movies/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
@@ -25,9 +31,6 @@
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/series/</loc>
     <lastmod>2021-07-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://apurvanakade.github.io/blog/journal/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/journal/lockdown-diaries/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
@@ -58,10 +61,13 @@
   </url><url>
     <loc>https://apurvanakade.github.io/blog/notes/lists/</loc>
   </url><url>
-    <loc>https://apurvanakade.github.io/blog/tags/comedy/</loc>
-    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+    <loc>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://apurvanakade.github.io/blog/tags/comedy/</loc>
     <lastmod>2021-12-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://apurvanakade.github.io/blog/tags/</loc>

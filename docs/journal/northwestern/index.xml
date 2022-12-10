@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Northwestern on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/journal/northwestern/</link>
+    <description>Recent content in Northwestern on PostDoc Problems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/journal/northwestern/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PC Building</title>
+      <link>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</link>
+      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</guid>
+      <description>I built my first PC! There were several Black Friday discounts that make the build substantially cheaper. Still the price ended up being slightly higher than I had hoped.
+https://pcpartpicker.com/list/FmpjQ6
+   Type Item Seller Price     CPU AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor Amazon $137.06   Motherboard MSI PRO B550-VC ATX AM4 Motherboard Amazon $129.99   Memory TEAMGROUP T-Create Expert 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory Amazon $49.</description>
+    </item>
+    
+  </channel>
+</rss>
