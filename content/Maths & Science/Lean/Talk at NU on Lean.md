@@ -1,8 +1,8 @@
 ---
 title: "Talk at NU on Lean"
-date: "2022-11-11"
-tags: 
-- journal
+date: 2022-11-11T00:00:00-00:00
+tags: []
+type : "post"
 ---
 
 

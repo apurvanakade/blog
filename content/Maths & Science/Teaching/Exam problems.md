@@ -1,9 +1,9 @@
 ---
 title: "Exam problems"
-date: "2022-11-13"
-tags: 
-- math, 
+date: 2022-11-13T00:00:00-00:00
+tags: [math]
 draft: true
+type : "post"
 ---
 
 Writing good problems for homework and exam is one of most important tasks when teaching a class.
