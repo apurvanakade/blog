@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lean on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/maths-science/lean/</link>
+    <description>Recent content in Lean on PostDoc Problems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/maths-science/lean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk at NU on Lean</title>
+      <link>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</guid>
+      <description>I gave an hour long talk at the NU Math Club yesterday about Lean and theorem proving.
+Things that went well It was fun to talk about Lean and to show examples. The most fun bit was playing with the Lean Chat plugin for VS Code, which has gotten quite good now.
+Things that did not go well It was a bit tedious to talk about Type Theory. I need to find better ways to motivate and explain Type Theory, especially the significance of constructors.</description>
+    </item>
+    
+  </channel>
+</rss>

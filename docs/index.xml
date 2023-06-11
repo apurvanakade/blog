@@ -25,7 +25,39 @@ I find Gibson&amp;rsquo;s writing style intriguing, very synesthetic and schizop
       <guid>https://apurvanakade.github.io/blog/journal/northwestern/pc-building/</guid>
       <description>I built my first PC! There were several Black Friday discounts that make the build substantially cheaper. Still the price ended up being slightly higher than I had hoped.
 https://pcpartpicker.com/list/FmpjQ6
-   Type Item Seller Price     CPU AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor Amazon $137.06   Motherboard MSI PRO B550-VC ATX AM4 Motherboard Amazon $129.99   Memory TEAMGROUP T-Create Expert 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory Amazon $49.</description>
+Type Item Seller Price CPU AMD Ryzen 5 5600G 3.9 GHz 6-Core Processor Amazon $137.06 Motherboard MSI PRO B550-VC ATX AM4 Motherboard Amazon $129.99 Memory TEAMGROUP T-Create Expert 16 GB (2 x 8 GB) DDR4-3600 CL18 Memory Amazon $49.99 Storage Crucial P2 500 GB M.</description>
+    </item>
+    
+    <item>
+      <title>Glass onion</title>
+      <link>https://apurvanakade.github.io/blog/notes/movies/glass-onion/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvanakade.github.io/blog/notes/movies/glass-onion/</guid>
+      <description>Sequel to Knives Out.
+It must be very difficult to make a good detective movie today, since there has already been so many such movies and the entire point of a detective movie is in the suspense. If the audience gets even so much as a clue of how the mystery is resolved the entire movie gets spoiled. But glass onion manages to surmount this steep challenge with ease.</description>
+    </item>
+    
+    <item>
+      <title>Decision to leave</title>
+      <link>https://apurvanakade.github.io/blog/notes/movies/decision-to-leave/</link>
+      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvanakade.github.io/blog/notes/movies/decision-to-leave/</guid>
+      <description>Made by the same director who directed the Vengeance trilogy and the Handmaiden.
+The actress, Tang Wei, is phenomenal. Throughout the movie you cannot make up your mind as to whether she is the victim or a femme fatale or if those two are even meaningfully distinguishable. The ease and authenticity with which she (and the actor) acts in some of the intense scenes is quite disturbing.
+The editing and sound is smartly used to convey the insomnia of the actor.</description>
+    </item>
+    
+    <item>
+      <title>Talk at NU on Lean</title>
+      <link>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</link>
+      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</guid>
+      <description>I gave an hour long talk at the NU Math Club yesterday about Lean and theorem proving.
+Things that went well It was fun to talk about Lean and to show examples. The most fun bit was playing with the Lean Chat plugin for VS Code, which has gotten quite good now.
+Things that did not go well It was a bit tedious to talk about Type Theory. I need to find better ways to motivate and explain Type Theory, especially the significance of constructors.</description>
     </item>
     
     <item>
@@ -72,7 +104,7 @@ I was under the impression that I was doing this already and that I had pretty m
       
       <guid>https://apurvanakade.github.io/blog/notes/books/gene/</guid>
       <description>This book is the story of the birth, growth, and future of one of the most powerful and dangerous ideas in the history of science: the “gene,” the fundamental unit of heredity, and the basic unit of all biological information.
- When you read good books, you start immersing yourself into the world of its words. Everytime you open its pages a parallel universe emerges for you transgress. And when the book is really good, you leave a different person.</description>
+When you read good books, you start immersing yourself into the world of its words. Everytime you open its pages a parallel universe emerges for you transgress. And when the book is really good, you leave a different person.</description>
     </item>
     
     <item>
@@ -101,8 +133,8 @@ I grew up with a deep distaste for Philosophy, thanks to having seen the perils 
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/series/midnight-diner/</guid>
-      <description>&amp;ldquo;When people finish their day and hurry home, my day starts. My diner is open from midnight to seven in the morning. They call it &amp;ldquo;Midnight Diner&amp;rdquo;. That&amp;rsquo;s all I have on my menu. But I make whatever customers request as long as I have the ingredients for it. That&amp;rsquo;s my policy. Do I even have customers? More than you would expect.&amp;quot;
-   This is the most wholesome TV series ever.</description>
+      <description>&amp;ldquo;When people finish their day and hurry home, my day starts. My diner is open from midnight to seven in the morning. They call it &amp;ldquo;Midnight Diner&amp;rdquo;. That&amp;rsquo;s all I have on my menu. But I make whatever customers request as long as I have the ingredients for it. That&amp;rsquo;s my policy. Do I even have customers? More than you would expect.&amp;rdquo;
+This is the most wholesome TV series ever.</description>
     </item>
     
     <item>
@@ -111,8 +143,8 @@ I grew up with a deep distaste for Philosophy, thanks to having seen the perils 
       <pubDate>Sat, 03 Jul 2021 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/random/meditation/why-i-meditate/</guid>
-      <description>&amp;ldquo;Do not try to use what you learn from Buddhism to be a Buddhist; use it to be a better whatever-you-already-are.&amp;quot; &amp;ndash; Dalai Lama    Mental Health
-This is the most obvious reason to meditate. If you think of your mind as another organ, then just as you need to keep your muscles healthy so too your mind. It&amp;rsquo;s not entirely clear to me what a healthy mind means.</description>
+      <description>&amp;ldquo;Do not try to use what you learn from Buddhism to be a Buddhist; use it to be a better whatever-you-already-are.&amp;rdquo; &amp;ndash; Dalai Lama Mental Health
+This is the most obvious reason to meditate. If you think of your mind as another organ, then just as you need to keep your muscles healthy so too your mind. It&amp;rsquo;s not entirely clear to me what a healthy mind means. To me, this is not the same thing as getting rid of negative emotions.</description>
     </item>
     
     <item>
@@ -122,7 +154,7 @@ This is the most obvious reason to meditate. If you think of your mind as anothe
       
       <guid>https://apurvanakade.github.io/blog/random/meditation/my-issues-with-meditation/</guid>
       <description>I&amp;rsquo;m quite sold on Meditation and do it pretty regularly. In a separate post, I&amp;rsquo;ll write about what about Meditation interests me. Here, I want to collect all the things about the cult of Meditation that offend me in some way. I&amp;rsquo;m mostly doing this for my own clarification so that I can articulate my concerns precisely and then move on and focus on the positive aspects of Meditation.
- First the obvious stuff:</description>
+First the obvious stuff:</description>
     </item>
     
     <item>
@@ -178,7 +210,7 @@ The series is not innovative or unique in any way. But it is very well executed.
       
       <guid>https://apurvanakade.github.io/blog/random/meditation/where-do-thoughts-come-from/</guid>
       <description>I had been thinking on and off about free will for some time now. To anyone who has some time to think, the pandemic is bound to raise some serious questions about control and free will. The following marathon conversation between Lex Fridman and Sam Harris rekindled my interest in the subject.
-  Do humans have free will?
+Do humans have free will?
 At the most fundamental level, the answer has to be no as we are all bound by the laws of physics.</description>
     </item>
     
@@ -200,7 +232,7 @@ Growing up reading primarily British authors, I have developed some fascination 
       <guid>https://apurvanakade.github.io/blog/notes/books/1q84/</guid>
       <description>&amp;ldquo;If you can&amp;rsquo;t understand it without an explanation, you can&amp;rsquo;t understand it with an explanation.&amp;quot;
 - 1Q84
- What most surprised me about 1Q84 is that I actually liked reading it! I have read enough Murakami that as I was reading the book I knew that he was not going to explain anything and yet I did not feel frustrated. I have developed a taste for his writing.</description>
+What most surprised me about 1Q84 is that I actually liked reading it! I have read enough Murakami that as I was reading the book I knew that he was not going to explain anything and yet I did not feel frustrated. I have developed a taste for his writing. In Murakami&amp;rsquo;s novels, it is futile to look for resolutions or explanations or logic or reason.</description>
     </item>
     
     <item>
@@ -219,7 +251,7 @@ I used to think that this has to do with overthinking but I no longer believe th
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/h2g2/</guid>
-      <description>&#34;The ships hung in the sky in much the same way that bricks don&#39;t.&#34;  Rereading the five books in The Hitchhiker&amp;rsquo;s Guide trilogy is the best self-care I’ve done throughout the pandemic.
+      <description>&#34;The ships hung in the sky in much the same way that bricks don&#39;t.&#34; Rereading the five books in The Hitchhiker&amp;rsquo;s Guide trilogy is the best self-care I’ve done throughout the pandemic.
 I would have loved to meet Douglas Adams, what a great guy he must have been to be friends with! It&amp;rsquo;s hard for me to imagine the kind of personality and world view one would have to have to create such an imaginative and fascinating adventure story.</description>
     </item>
     
@@ -230,7 +262,7 @@ I would have loved to meet Douglas Adams, what a great guy he must have been to 
       
       <guid>https://apurvanakade.github.io/blog/notes/books/the-fall/</guid>
       <description>With every Camus book there are two major problems:
- The writing is purposefully contrived, possibly lost in translation from French. The meaning is purposefully contrived, possibly lost in translation from French.  In spite of this, I just cannot get enough of his books. He is the most enlightened person I&amp;rsquo;ve ever read.
+The writing is purposefully contrived, possibly lost in translation from French. The meaning is purposefully contrived, possibly lost in translation from French. In spite of this, I just cannot get enough of his books. He is the most enlightened person I&amp;rsquo;ve ever read.
 The Fall is the story of a benevolent lawyer who is always going out of his ways to help others, a hugely successful lawyer who offers his services to the poor for free.</description>
     </item>
     
@@ -259,7 +291,7 @@ The comics are a collection of short stories whereas the series is closer to a n
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/journal/lockdown-diaries/sleep/</guid>
-      <description>I have heard Matthew Walker talk about sleep, a lot. But I never really took him seriously. I find him preachy and his talks are always exaggerated. The first time I got really curious about sleep is when I heard this talk:   One of the silver linings of this depressing lockdown is that this has given me a lot of time to reflect and introspect, look inwards as they say.</description>
+      <description>I have heard Matthew Walker talk about sleep, a lot. But I never really took him seriously. I find him preachy and his talks are always exaggerated. The first time I got really curious about sleep is when I heard this talk: One of the silver linings of this depressing lockdown is that this has given me a lot of time to reflect and introspect, look inwards as they say. I have developed supernatural observational and organizational skills.</description>
     </item>
     
     <item>
@@ -268,8 +300,8 @@ The comics are a collection of short stories whereas the series is closer to a n
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/crime-and-punishment/</guid>
-      <description>&amp;ldquo;What do you think, would not one tiny crime be wiped out by thousands of good deeds?&amp;quot;
- Crime and Punishment is Dostoevsky&amp;rsquo;s criticism of naive rationalism, utilitarianism, and armchair philosophizing. For such a boring topic, this is a surprisingly fun read. Adhering to his own criticism, Dostoevsky does not take to prophesying and making grand philosophical arguments about the pros and cons of communism but instead weaves an interesting and entertaining narrative of what might happen if one were to take rationalism to its extreme.</description>
+      <description>&amp;ldquo;What do you think, would not one tiny crime be wiped out by thousands of good deeds?&amp;rdquo;
+Crime and Punishment is Dostoevsky&amp;rsquo;s criticism of naive rationalism, utilitarianism, and armchair philosophizing. For such a boring topic, this is a surprisingly fun read. Adhering to his own criticism, Dostoevsky does not take to prophesying and making grand philosophical arguments about the pros and cons of communism but instead weaves an interesting and entertaining narrative of what might happen if one were to take rationalism to its extreme.</description>
     </item>
     
     <item>
@@ -314,9 +346,9 @@ The comics are a collection of short stories whereas the series is closer to a n
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/random/meditation/observing-your-thoughts/</guid>
-      <description>&amp;ldquo;You are right, Watson,&amp;rdquo; said he. &amp;ldquo;It does seem a most preposterous way of settling a dispute.&amp;quot;
-  &amp;ldquo;Most preposterous!&amp;rdquo; I exclaimed, and then suddenly realizing how he had echoed the inmost thought of my soul, I sat up in my chair and stared at him in blank amazement&amp;rdquo; - Adventures of the Cardboard Box
- Sherlock Holmes might have been able to predict the thoughts of Dr. Watson but I have found out that predicting my own thoughts is enough of a challenge for me.</description>
+      <description>&amp;ldquo;You are right, Watson,&amp;rdquo; said he. &amp;ldquo;It does seem a most preposterous way of settling a dispute.&amp;rdquo;
+&amp;ldquo;Most preposterous!&amp;rdquo; I exclaimed, and then suddenly realizing how he had echoed the inmost thought of my soul, I sat up in my chair and stared at him in blank amazement&amp;quot; - Adventures of the Cardboard Box
+Sherlock Holmes might have been able to predict the thoughts of Dr. Watson but I have found out that predicting my own thoughts is enough of a challenge for me.</description>
     </item>
     
     <item>
@@ -334,7 +366,7 @@ The comics are a collection of short stories whereas the series is closer to a n
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/myth-of-sisyphus/</guid>
-      <description>“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world.”  The central question, says Camus, is that of suicide. If you are going to die one day, why not just kill yourself now?
+      <description>“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world.” The central question, says Camus, is that of suicide. If you are going to die one day, why not just kill yourself now?
 Starting from here, he develops the philosophy of the absurd.</description>
     </item>
     
@@ -404,7 +436,7 @@ Growing up, there was a hierarchy of subjects at school. Maths, &amp;ldquo;scien
       
       <guid>https://apurvanakade.github.io/blog/maths-science/teaching/calc1000/</guid>
       <description>I just finished teaching the largest class I have taught so far. It went as well as one would expect a class, that is held in the bleak Canadian fall nights for two hours straight twice a week with a student to faculty ratio of 200:1, to go.
-  Biweekly quizzes. This was the one thing that worked really well. Frequent evaluation is the key to keeping students on schedule, especially freshmen.</description>
+Biweekly quizzes. This was the one thing that worked really well. Frequent evaluation is the key to keeping students on schedule, especially freshmen.</description>
     </item>
     
     <item>
@@ -413,7 +445,7 @@ Growing up, there was a hierarchy of subjects at school. Maths, &amp;ldquo;scien
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/left-hand-of-darkness/</guid>
-      <description>&#34;...when we’re done with it, we may find—if it’s a good novel—that we’re a bit different from what we were before we read it, that we have been changed a little, as if by having met a new face, crossed a street we never crossed before. But it’s very hard to say just what we learned, how we were changed.&#34;  I do not think I understand this book at all.</description>
+      <description>&#34;...when we’re done with it, we may find—if it’s a good novel—that we’re a bit different from what we were before we read it, that we have been changed a little, as if by having met a new face, crossed a street we never crossed before. But it’s very hard to say just what we learned, how we were changed.&#34; I do not think I understand this book at all.</description>
     </item>
     
     <item>
@@ -450,7 +482,7 @@ Growing up, there was a hierarchy of subjects at school. Maths, &amp;ldquo;scien
       
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/adaptability/</guid>
       <description>I used to love watching Ted Talks, but of late I think the institution has very much lost its way and its originality and has become overly preachy and full of generic platitudes. It is great then to come across a Ted talk that I feel happy to share.
-  It has helped me a lot during my grad school to be able to adapt my research as needed. It took me a while, but I eventually figured out that I am not very keen on proving grand conjectures but prefer working on small projects.</description>
+It has helped me a lot during my grad school to be able to adapt my research as needed. It took me a while, but I eventually figured out that I am not very keen on proving grand conjectures but prefer working on small projects.</description>
     </item>
     
     <item>
@@ -539,7 +571,7 @@ Short form scenes are shorter (2 mins) with a much stricter structure and hence 
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/three-body-problem/</guid>
-      <description>&#34;Weakness and ignorance are not barriers to survival, but arrogance is.&#34; -Three Body Problem  Of the Three Body Problem trilogy, I immensely enjoyed reading the first book and had to drag my way across the other two.
+      <description>&#34;Weakness and ignorance are not barriers to survival, but arrogance is.&#34; -Three Body Problem Of the Three Body Problem trilogy, I immensely enjoyed reading the first book and had to drag my way across the other two.
 The first book has a very beautiful structure. It is intensely gripping with very honest, well-formed characters, it jumps across various timelines introducing us to the Chinese cultural revolution along the way, has a whodunit mystery, creates great sci-fi worlds - a complete package.</description>
     </item>
     
@@ -551,9 +583,7 @@ The first book has a very beautiful structure. It is intensely gripping with ver
       <guid>https://apurvanakade.github.io/blog/journal/improv/scene-work-1/</guid>
       <description>This 301 class is about game, the backbone of all Improv scenes.
 We talked about the importance of setting up the base reality. We started with a warm up called the Robot Game. This game involves two people and these are the only lines they&amp;rsquo;re allowed to say
- Player 1:  I am ... 
-Player 2:  I am ... 
-Player 1:  We are at ...</description>
+Player 1: I am ... Player 2: I am ... Player 1: We are at ... Player 2: We are doing ... Player 1: I feel .</description>
     </item>
     
     <item>
@@ -563,7 +593,7 @@ Player 1:  We are at ...</description>
       
       <guid>https://apurvanakade.github.io/blog/journal/improv/character-as-game/</guid>
       <description>We talked about how it is possible to play a character that is either
- close to you, completely opposite of you.  Both are completely valid options to play. And by making choices for what character to play, the character itself can become the game in the scene.
+close to you, completely opposite of you. Both are completely valid options to play. And by making choices for what character to play, the character itself can become the game in the scene.
 The important thing is to make strong choices and have strong beliefs, without which the character becomes both hard to believe and unplayable as a game.</description>
     </item>
     
@@ -574,7 +604,8 @@ The important thing is to make strong choices and have strong beliefs, without w
       
       <guid>https://apurvanakade.github.io/blog/journal/improv/vapapo/</guid>
       <description>VAPAPO is a character creation technique created by Jill Bernard, the author of Small Cute Book of Improv.
- Voice Atittude Posture Animal Prop Obsession  The idea of VAPAPO is that by strongly choosing each of the 6 traits it is possible to create an entirely unique character in each scene. Further, these choices are indepedent of the scene and can be made beforehand thereby making a very colorful scene.</description>
+Voice Atittude Posture Animal Prop Obsession The idea of VAPAPO is that by strongly choosing each of the 6 traits it is possible to create an entirely unique character in each scene. Further, these choices are indepedent of the scene and can be made beforehand thereby making a very colorful scene.
+We played the Character Tornado to warm up.</description>
     </item>
     
     <item>
@@ -595,9 +626,9 @@ In The Handmaiden this is further amplified by the setting. The movie starts wit
       
       <guid>https://apurvanakade.github.io/blog/journal/improv/laban/</guid>
       <description>Laban categorized human movement into four component parts:
- Space Time Weight Flow  Each of those parts has two elements:
- Space is either direct or indirect. Speed is either quick or sustained. Weight is either heavy or light. Flow is either bound or free.  In class, we mainly focused on the eight efforts.
-            PUNCH Direct Quick Heavy Bound   PRESS Direct Sustained Heavy Bound   SLASH Indirect Quick Heavy Free   WRING Indirect Sustained Heavy Bound   DAB Direct Quick Light Bound   FLICK Indirect Quick Light Free   FLOAT Indirect Sustained Light Free   GLIDE Direct Sustained Light Free    Reference: https://somersetacademy.</description>
+Space Time Weight Flow Each of those parts has two elements:
+Space is either direct or indirect. Speed is either quick or sustained. Weight is either heavy or light. Flow is either bound or free. In class, we mainly focused on the eight efforts.
+PUNCH Direct Quick Heavy Bound PRESS Direct Sustained Heavy Bound SLASH Indirect Quick Heavy Free WRING Indirect Sustained Heavy Bound DAB Direct Quick Light Bound FLICK Indirect Quick Light Free FLOAT Indirect Sustained Light Free GLIDE Direct Sustained Light Free Reference: https://somersetacademy.</description>
     </item>
     
     <item>
@@ -616,7 +647,7 @@ In The Handmaiden this is further amplified by the setting. The movie starts wit
       
       <guid>https://apurvanakade.github.io/blog/journal/improv/commedia-dellarte/</guid>
       <description>We learnt about the various stock characters in the old Italian troupe of Comedia dell&amp;rsquo;arte. The goal is to express a character using their physical mannersisms and try and use these characteristics in your act.
-  Pantalone A suspicious miser. He is always hunched over, bent head, conniving, hands hidden and close to the chest. He walks slowly . He speaks in a rough hoarse voice without every looking up.</description>
+Pantalone A suspicious miser. He is always hunched over, bent head, conniving, hands hidden and close to the chest. He walks slowly . He speaks in a rough hoarse voice without every looking up. He steps toe first, with slow high soft steps.</description>
     </item>
     
     <item>
@@ -626,7 +657,7 @@ In The Handmaiden this is further amplified by the setting. The movie starts wit
       
       <guid>https://apurvanakade.github.io/blog/journal/improv/viola-spolin/</guid>
       <description>We played some theater games to learn how to not get self conscious while on the stage and be more aware and have a better stage presence.
- Mirroring, physical and vocal Kitty wants a spot Green light, red light Who am I? Scence on scene Animals Throwing Knives Emotional Symphony Voices    </description>
+Mirroring, physical and vocal Kitty wants a spot Green light, red light Who am I? Scence on scene Animals Throwing Knives Emotional Symphony Voices </description>
     </item>
     
     <item>
@@ -635,8 +666,8 @@ In The Handmaiden this is further amplified by the setting. The movie starts wit
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/neuromancer/</guid>
-      <description>&#34;The sky above the port was the color of television, tuned to a dead channel.&#34; -Neuromancer  I always knew that The Matrix had to have found it&amp;rsquo;s concepts from some book, it was too revolutionary a movie to have spawned out of nothing. And I finally found it - Neuromancer, the archetypal cyberpunk novel.
-This is probably the hardest and simultaneously the most riveting sci-fi novel I&amp;rsquo;ve ever read.</description>
+      <description>&#34;The sky above the port was the color of television, tuned to a dead channel.&#34; -Neuromancer I always knew that The Matrix had to have found it&amp;rsquo;s concepts from some book, it was too revolutionary a movie to have spawned out of nothing. And I finally found it - Neuromancer, the archetypal cyberpunk novel.
+This is probably the hardest and simultaneously the most riveting sci-fi novel I&amp;rsquo;ve ever read. There is a perplexing duality in the text; some parts are vivid and visually stunning, while some others are wide open to interpretation.</description>
     </item>
     
     <item>
@@ -645,7 +676,7 @@ This is probably the hardest and simultaneously the most riveting sci-fi novel I
       <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/ronswanson/</guid>
-      <description>&#34;I know what I&#39;m about son.&#34;  Ron Swanson is the simply the best Swanson.
+      <description>&#34;I know what I&#39;m about son.&#34; Ron Swanson is the simply the best Swanson.
 I watch all kinds of comedy and I love all kinds of comedy. Good comedians are great philosophers who bring out the absurdities in life. They&amp;rsquo;re great observers, great listeners, great communicators, great actors, and great thinkers.
 Good comedians extract humor out of the simplest of things. Ron Swanson finds it in silence. While many comedians are loud, energetic, emphatic, expressive and do great caricature, Ron manages to be funny by not doing anything, a master of deadpan comedy, he&amp;rsquo;s the punctuation marks in the otherwise unpunctuated soliloquies of Leslie Knopes.</description>
     </item>
@@ -667,7 +698,7 @@ As there wasn&amp;rsquo;t much to do here thanks to the rocks, we decided to go 
       
       <guid>https://apurvanakade.github.io/blog/travel/rockies/campgrounds/</guid>
       <description>A few days ago I had hiked in the Rockies in the Indian Peaks Park up to the Blue Lakes. It was more of a walk than a hike.
- Now we were headed to the Rocky Mountain National Park for four days of camping and backpacking. The Rockies themselves span thousands of miles in the US and Canada, and the Rocky Mountain National Park itself covers just a small portion of it.</description>
+Now we were headed to the Rocky Mountain National Park for four days of camping and backpacking. The Rockies themselves span thousands of miles in the US and Canada, and the Rocky Mountain National Park itself covers just a small portion of it.</description>
     </item>
     
     <item>
@@ -677,7 +708,7 @@ As there wasn&amp;rsquo;t much to do here thanks to the rocks, we decided to go 
       
       <guid>https://apurvanakade.github.io/blog/travel/rockies/boulderbrook/</guid>
       <description>Of all my outdoors experiences I&amp;rsquo;ve perhaps never felt as alarmed as one evening in the Rockies.
- We woke up to find the entire world shrouded in a thin layer of mist and rain. As for the sun, not even a faint outline was visible anywhere. The first event to throw a wrench in our perfectly planned trip was the breaking down of our gas stove. No matter what the stove just wouldn&#39;t light.</description>
+We woke up to find the entire world shrouded in a thin layer of mist and rain. As for the sun, not even a faint outline was visible anywhere. The first event to throw a wrench in our perfectly planned trip was the breaking down of our gas stove. No matter what the stove just wouldn&#39;t light.</description>
     </item>
     
     <item>
@@ -686,7 +717,7 @@ As there wasn&amp;rsquo;t much to do here thanks to the rocks, we decided to go 
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/rendezvous-with-rama/</guid>
-      <description>&#34;The human race has to live with its conscience. Whatever the Hermians argue, survival is not everything.&#34; -Rendezvous with Rama  I&amp;rsquo;m biased towards space novels. Reading about space travel and stars and planets and contemplating the huge vastness and emptiness always fills me with a sense of indescribable wonder, bliss, and humility.
+      <description>&#34;The human race has to live with its conscience. Whatever the Hermians argue, survival is not everything.&#34; -Rendezvous with Rama I&amp;rsquo;m biased towards space novels. Reading about space travel and stars and planets and contemplating the huge vastness and emptiness always fills me with a sense of indescribable wonder, bliss, and humility.
 Arthur Clarke&amp;rsquo;s Rendezvous with Rama is a space poetry. It starts with a simple premise of an alien object (Rama) suddenly appearing in the solar system and humans venturing out to explore it.</description>
     </item>
     
@@ -720,10 +751,10 @@ Tomorrow I&amp;rsquo;ll head out from here and move over to another world. A par
     
     <item>
       <title>Serendipity</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/serendipity/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/serendipity/</link>
       <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/serendipity/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/serendipity/</guid>
       <description>We were sitting at the far end of the pub, tired, exhausted, and relieved. I was slowly wiping the water that had condensed on the glass of my IPA with my fingertips, or was it a Belgian? We had conjoined two adjacent tables. The pub was playing some recent-old pop music, as usual. The lights were dim and yellow, there were television screens tucked in every corner airing sports to give people something to look at between conversations.</description>
     </item>
     
@@ -752,7 +783,7 @@ Tomorrow I&amp;rsquo;ll head out from here and move over to another world. A par
       
       <guid>https://apurvanakade.github.io/blog/random/professional-assholes/canadian-visa/</guid>
       <description>EDIT: Heeding my (and undoubtedly) infinitely many other complaints, the Canadian embassy has changed their agency from CIC to VFS who are genuinely good at their job. No complaints anymore.
-  Being an Indian means that I&amp;rsquo;ve to apply for a visa even for short visits when traveling internationally. This is usually a small loss of money and time and I&amp;rsquo;ve never had any trouble with this process. That was until I applied for a Canadian visa in the US.</description>
+Being an Indian means that I&amp;rsquo;ve to apply for a visa even for short visits when traveling internationally. This is usually a small loss of money and time and I&amp;rsquo;ve never had any trouble with this process. That was until I applied for a Canadian visa in the US.</description>
     </item>
     
     <item>
@@ -766,10 +797,10 @@ Tomorrow I&amp;rsquo;ll head out from here and move over to another world. A par
     
     <item>
       <title>Bike Party</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/bike-party/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/bike-party/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/bike-party/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/bike-party/</guid>
       <description>A cultured friend of fine, who owns an expensive Brompton Bike, once told me before moving out of Baltimore that the thing that he was going to miss the most about this city was the Baltimore Bike Party. Now, this is someone who I imagine brushes his teeth while listening to E-minor sonatas and who knows the difference between a lawn and a garden, not the kind of person who makes recommendations frivolously.</description>
     </item>
     
@@ -809,8 +840,8 @@ This wasn&amp;rsquo;t the best idea I have ever had. Turns out distances look de
       <pubDate>Fri, 23 Mar 2018 23:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/travel/big-bend/last-night-in-the-desert/</guid>
-      <description>&amp;ldquo;What do we leave behind when we cross each frontier? Each moment seems split in two: melancholy for what was left behind and the excitement of entering a new land.&amp;quot; - The Motorcycle Diaries
- I&#39;m profoundly sad about leaving this desert. Sitting in an Indian campsite, here&#39;s a genuine Indian looking back at a week of toiling in the Big Bend.   It was windy a while ago, but the wind has now abated, my tent no longer dances.</description>
+      <description>&amp;ldquo;What do we leave behind when we cross each frontier? Each moment seems split in two: melancholy for what was left behind and the excitement of entering a new land.&amp;rdquo; - The Motorcycle Diaries
+I&#39;m profoundly sad about leaving this desert. Sitting in an Indian campsite, here&#39;s a genuine Indian looking back at a week of toiling in the Big Bend. It was windy a while ago, but the wind has now abated, my tent no longer dances.</description>
     </item>
     
     <item>
@@ -819,7 +850,7 @@ This wasn&amp;rsquo;t the best idea I have ever had. Turns out distances look de
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/notes/books/checklist-manifesto/</guid>
-      <description>&#34;Man is fallible, but maybe men are less so.&#34; -The Checklist Manifesto  It is such a simple idea, and yet so hard to follow. When your work is complicated, involves serious teamwork, needs to be done in a time critical manner, is prone to errors of oversight; make a checklist. Follow it diligently, and upgrade it frequently. The purpose of a checklist is not to replace human thought, but to take care of the trivialities so that the mind can focus on more important things.</description>
+      <description>&#34;Man is fallible, but maybe men are less so.&#34; -The Checklist Manifesto It is such a simple idea, and yet so hard to follow. When your work is complicated, involves serious teamwork, needs to be done in a time critical manner, is prone to errors of oversight; make a checklist. Follow it diligently, and upgrade it frequently. The purpose of a checklist is not to replace human thought, but to take care of the trivialities so that the mind can focus on more important things.</description>
     </item>
     
     <item>
@@ -860,7 +891,7 @@ I have a love-hate relationship with running. At the core of it, it is an extrem
       
       <guid>https://apurvanakade.github.io/blog/notes/books/remains-of-the-day/</guid>
       <description>“One must wait until the evening to see how splendid the day has been.” - Sophocles
- Oh man, what do I say about this novel? It was excruciating to keep reading it, perhaps for something like 90% of the novel my mental state was somewhere between mildly frustrated and benignly annoyed. But I&amp;rsquo;m so glad I persisted and finished the damn thing.
+Oh man, what do I say about this novel? It was excruciating to keep reading it, perhaps for something like 90% of the novel my mental state was somewhere between mildly frustrated and benignly annoyed. But I&amp;rsquo;m so glad I persisted and finished the damn thing.
 The story is narrated by a butler, a Mr.</description>
     </item>
     
@@ -902,7 +933,7 @@ This is, in fact, true for almost all art forms. All good movies have those mome
       <guid>https://apurvanakade.github.io/blog/notes/books/never-let-me-go/</guid>
       <description>&amp;ldquo;I keep thinking about this river somewhere, with the water moving really fast. And these two people in the water, trying to hold onto each other, holding on as hard as they can, but in the end it&amp;rsquo;s just too much. The current&amp;rsquo;s too strong. They&amp;rsquo;ve got to let go, drift apart.&amp;quot;
 - Never Let Me Go
- Ishiguro is a Japanese author brought up in the UK.</description>
+Ishiguro is a Japanese author brought up in the UK. As a hybrid of the two island nations he writes this book with the tenderness of the Japanese and the dreaminess of the English.</description>
     </item>
     
     <item>
@@ -922,15 +953,15 @@ Right now I&amp;rsquo;m coming back from a dance meet-up with some old friends a
       
       <guid>https://apurvanakade.github.io/blog/maths-science/popular-science/spoken-language/</guid>
       <description>I was attending the Science of Learning Symposium at JHU, which is usually quite fascinating, but was very boring this year. These are the things that frustrate me about formal events:
- People take extended time to introduce the speakers (nobody wants to hear you talk, go away). People in suits, usually senior professors who have stopped being scientists, who think they&amp;rsquo;re funny because nobody is honest to them, make shitty jokes and laugh at their own jokes.</description>
+People take extended time to introduce the speakers (nobody wants to hear you talk, go away). People in suits, usually senior professors who have stopped being scientists, who think they&amp;rsquo;re funny because nobody is honest to them, make shitty jokes and laugh at their own jokes.</description>
     </item>
     
     <item>
       <title>Eye Test</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/eye-test/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/eye-test/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/eye-test/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/eye-test/</guid>
       <description>I have had glasses ever since I was 10 years old. As a kid I used to wear really thick durable plastic frames, which evolved to metal frames in my teenage years, and then back to durable plastic frames in college. My power used to increase incessantly until I stopped growing and so I&amp;rsquo;ve probably paid a visit to an ophthalmologist every single year of my life in India. Today for the first time I went for an eye check-up in the US.</description>
     </item>
     
@@ -951,7 +982,7 @@ But that does not mean that you cannot gatecrash the party.</description>
       
       <guid>https://apurvanakade.github.io/blog/maths-science/teaching/symmetries-polynomials/</guid>
       <description>&amp;ldquo;In the broad light of day mathematicians check their equations and their proofs, leaving no stone unturned in their search for rigour. But, at night, under the full moon, they dream, they float among the stars and wonder at the miracle of the heavens. They are inspired. Without dreams there is no art, no mathematics, no life.&amp;rdquo; -Michael Atiyah
- I finally finished my week long class on the ideas behind Galois&#39; proof of why a quintic cannot be solved using radicals.</description>
+I finally finished my week long class on the ideas behind Galois&amp;rsquo; proof of why a quintic cannot be solved using radicals.</description>
     </item>
     
     <item>
@@ -962,7 +993,7 @@ But that does not mean that you cannot gatecrash the party.</description>
       <guid>https://apurvanakade.github.io/blog/notes/movies/paddington-2/</guid>
       <description>I haven&amp;rsquo;t seen Paddington, and frankly the only reason I decided to watch Paddington 2 is because of it&amp;rsquo;s insanely high ratings on Rotten Tomatoes.
 The ratings are not exaggerated. This is a beautifully made movie, everything about this movie is good.
-  I&amp;rsquo;ll only say this, watching this movie is not unlike reading a Harry Potter book (Hagrid is in the movie!). The story is tactfully written, as if by Rowling herself, but much more cheerful, without any hint of an underlying sadness.</description>
+I&amp;rsquo;ll only say this, watching this movie is not unlike reading a Harry Potter book (Hagrid is in the movie!). The story is tactfully written, as if by Rowling herself, but much more cheerful, without any hint of an underlying sadness.</description>
     </item>
     
     <item>
@@ -983,7 +1014,7 @@ I resisted and just laid myself down on my bed staring at the ceiling. Perhaps f
       <guid>https://apurvanakade.github.io/blog/notes/books/norwegian-wood/</guid>
       <description>&amp;ldquo;What happens when people open their hearts?&amp;quot;
 &amp;ldquo;They get better.” - Norwegian Wood
- Norwegian Wood is a teenage love story/coming of age story set mainly in Tokyo and the mountains of Kyoto. The name derives from the eponymous song by the Beatles.
+Norwegian Wood is a teenage love story/coming of age story set mainly in Tokyo and the mountains of Kyoto. The name derives from the eponymous song by the Beatles.
 I have very mixed feelings about the book. On one hand, the book has a very pulp feeling to it. There are too many sex scenes described with unnecessary details (the scenes aren&amp;rsquo;t even interesting, just teenagers jerking each other off) and every conversation between the protagonists eventually converges towards sex, love, and masturbation.</description>
     </item>
     
@@ -1021,8 +1052,8 @@ This new movie of his, Shape of Water, in some ways tries to recreate the same f
       <pubDate>Mon, 01 Jan 2018 23:00:00 +0000</pubDate>
       
       <guid>https://apurvanakade.github.io/blog/travel/everglades-etc./at-the-glades/</guid>
-      <description>&amp;ldquo;There are no other Everglades in the world.&amp;quot;
- --The Everglades: River of Grass  I woke up at 5:45am, determined to make the most out of the first day of the year. It was dark and hazy outside when I started heading towards the Everglades on US-1. As you exit US-1 the traffic starts dwindling until you reach a long single lane street passing through the massive lush green South Floridian agricultural lands.</description>
+      <description>&amp;ldquo;There are no other Everglades in the world.&amp;rdquo;
+--The Everglades: River of Grass I woke up at 5:45am, determined to make the most out of the first day of the year. It was dark and hazy outside when I started heading towards the Everglades on US-1. As you exit US-1 the traffic starts dwindling until you reach a long single lane street passing through the massive lush green South Floridian agricultural lands.</description>
     </item>
     
     <item>
@@ -1081,7 +1112,7 @@ Danny Kanny posits a two system model for our minds. The faster system which is 
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/jolabokafloo/</guid>
       <description>I love words.
 I found this wholesome link on Reddit while I was doing some work (*cough*). As the US is riling under Mr. Pai&amp;rsquo;s proud accomplishments there are some countries that have figured it all out.
- Every year since 1944, the Icelandic book trade has published a catalogue – called Bókatíðindi (‘Book Bulletin’, in English) – that is sent to every household in the country in mid-November during the Reykjavik Book Fair.</description>
+Every year since 1944, the Icelandic book trade has published a catalogue – called Bókatíðindi (‘Book Bulletin’, in English) – that is sent to every household in the country in mid-November during the Reykjavik Book Fair.</description>
     </item>
     
     <item>
@@ -1091,47 +1122,47 @@ I found this wholesome link on Reddit while I was doing some work (*cough*). As 
       
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/zugzwang/</guid>
       <description>Zugzwang
- (n.) a situation in which the obligation to make a move in one&amp;rsquo;s turn is a serious, often decisive, disadvantage, often in the final years of grad school.
-   Zugzywangy.
-  I don&amp;rsquo;t understand music and yet I like to listen to it, same goes with girls. I recently came across this video on youtube where the guy describes chess games and it&amp;rsquo;s fun to watch even without knowing anything about chess.</description>
+(n.) a situation in which the obligation to make a move in one&amp;rsquo;s turn is a serious, often decisive, disadvantage, often in the final years of grad school.
+Zugzywangy.
+I don&amp;rsquo;t understand music and yet I like to listen to it, same goes with girls. I recently came across this video on youtube where the guy describes chess games and it&amp;rsquo;s fun to watch even without knowing anything about chess.</description>
     </item>
     
     <item>
       <title>Boltbus</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/boltbus/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/boltbus/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/boltbus/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/boltbus/</guid>
       <description>Boltbus, or as I like to call it capitalism on wheels.
 I&amp;rsquo;ve bought a Boltbus ticket for $1 and I&amp;rsquo;ve bought one for $70, I bet there are derivatives being traded on these ticket prices. But all in all it&amp;rsquo;s always a pleasant ride, you know why? Because there&amp;rsquo;s a toilet on the bus. In India when you travel by buses you have to schedule each one your leaks and dumps.</description>
     </item>
     
     <item>
       <title>First Snow</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/first-snow/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/first-snow/</link>
       <pubDate>Sat, 09 Dec 2017 13:12:00 -0500</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/first-snow/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/first-snow/</guid>
       <description>Saturdays are the hardest for me, I have an early morning yoga class. And so every Saturday morning there is almost always an intense battle between the sleep-a-little-more and the get-your-ass-up factions. Both sides have fairly convincing arguments and the debate turns deeply philosophical pretty quickly. Fortunately the get-your-ass-up faction always wins as by then I&amp;rsquo;m wide awake and can&amp;rsquo;t possibly go back to sleep. Nice strategy!
 As I stumble outside half asleep half awake trying to make it in time, I&amp;rsquo;m pleasantly surprised by the small aimlessly drifting snow flakes, taking their time dancing in the wind before melting away on the wet pavement.</description>
     </item>
     
     <item>
       <title>Hubble</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/hubble/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/hubble/</link>
       <pubDate>Wed, 06 Dec 2017 14:21:13 -0500</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/hubble/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/hubble/</guid>
       <description>One of the perks of being at Hopkins is that ever so often you get to visit the Hubble Space Telescope building. It is a stolid building perched atop a small slope on the fringe of the campus overlooking a dense park through which flows calmly a small ravine, or a run, as we like to call it in this part of the world.
 There isn&amp;rsquo;t exactly much to see here, the telescope being in outer Space and all that, but there is a friendly cafeteria with large glass windows serving Central American food.</description>
     </item>
     
     <item>
       <title>Christmas Parade</title>
-      <link>https://apurvanakade.github.io/blog/journal/lifejhu/christmas-parade/</link>
+      <link>https://apurvanakade.github.io/blog/journal/life@jhu/christmas-parade/</link>
       <pubDate>Sun, 03 Dec 2017 14:32:46 -0500</pubDate>
       
-      <guid>https://apurvanakade.github.io/blog/journal/lifejhu/christmas-parade/</guid>
+      <guid>https://apurvanakade.github.io/blog/journal/life@jhu/christmas-parade/</guid>
       <description>I&amp;rsquo;m usually very reluctant to try new places. I do enjoy the places AFTER I&amp;rsquo;ve been to them, the trouble lies with the planning phase. While there are several reviews available online none of them talk about, for example, how long does it take to get to Hopkins from the place? Or how sunny does it get at 3pm on a Sunday in December? None of the reviews, in short, provide any useful information to a graduate student.</description>
     </item>
     
