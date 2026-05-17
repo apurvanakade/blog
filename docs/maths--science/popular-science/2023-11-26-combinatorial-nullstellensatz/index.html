@@ -22,7 +22,9 @@
 
 
 
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.22/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
 
 <body class="single" onload="initSiteMap(&#34;/maths--science/popular-science/2023-11-26-combinatorial-nullstellensatz/&#34;)">
 
@@ -156,7 +158,18 @@ Show that if the polynomials $f_i$ have a common zero $(c_1, c_2, \ldots, c_n)$,
 
 </body>
 
-
-
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$",  right: "$",  display: false},
+        {left: "\\(", right: "\\)", display: false},
+        {left: "\\[", right: "\\]", display: true}
+      ],
+      throwOnError: false
+    });
+  });
+</script>
 
 </html>
