@@ -1,23 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>youtube on PostDoc Problems</title>
+    <title>Youtube on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/youtube/</link>
-    <description>Recent content in youtube on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Youtube on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2017 12:41:13 -0500</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Jan 2024 00:25:50 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tom Scott</title>
+      <link>https://apurvanakade.github.io/blog/notes/series/2023-01-02-tom-scott/</link>
+      <pubDate>Tue, 02 Jan 2024 00:25:50 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/notes/series/2023-01-02-tom-scott/</guid>
+      <description>&lt;p&gt;Tom Scott stopped making weekly videos today after 10 years.&#xA;When I first discovered his channel, I binged through all of his videos - at least the ones about travel, and science, and stuff.&#xA;His departure feels significant.&#xA;Signaling me to change as well, shed some of my old skin.&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7DKv5H5Frt0?si=rbt9Zs5KVf6QZ49M&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
     <item>
       <title>Zugzwang</title>
       <link>https://apurvanakade.github.io/blog/random/stray-thoughts/zugzwang/</link>
       <pubDate>Tue, 12 Dec 2017 12:41:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/zugzwang/</guid>
-      <description>Zugzwang
-(n.) a situation in which the obligation to make a move in one&amp;rsquo;s turn is a serious, often decisive, disadvantage, often in the final years of grad school.
-Zugzywangy.
-I don&amp;rsquo;t understand music and yet I like to listen to it, same goes with girls. I recently came across this video on youtube where the guy describes chess games and it&amp;rsquo;s fun to watch even without knowing anything about chess.</description>
+      <description>&lt;p&gt;&lt;strong&gt;Zugzwang&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;(n.)&lt;/em&gt; a situation in which the obligation to make a move in one&amp;rsquo;s turn is a serious, often decisive, disadvantage, often in the final years of grad school.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Zugzywangy.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I don&amp;rsquo;t understand music and yet I like to listen to it, same goes with girls. I recently came across this video on youtube where the guy describes chess games and it&amp;rsquo;s fun to watch even without knowing anything about chess.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

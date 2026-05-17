@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/ai/</link>
+    <description>Recent content in AI on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 22:41:39 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math Arena AI</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2025-04-26-matharenaai/</link>
+      <pubDate>Sat, 26 Apr 2025 22:41:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2025-04-26-matharenaai/</guid>
+      <description>&lt;p&gt;I was doing some research for a talk and came across this website for recording AI results on math problems: &lt;a href=&#34;https://matharena.ai/&#34;&gt;https://matharena.ai/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;LLMs have been getting better and better at solving math problems but there is a worry that all they do is regurgitate what they already know. So, if an AI has seen a problem before you can expect it to solve it but if it hasn&amp;rsquo;t then all bets are off. Many of the progress claims are in fact reporting these memorized solutions.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

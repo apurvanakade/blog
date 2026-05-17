@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Database on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/database/</link>
+    <description>Recent content in Database on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 Sep 2023 12:37:29 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/database/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tau Manifesto</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-tau/</link>
+      <pubDate>Sun, 24 Sep 2023 12:37:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-tau/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tauday.com/tau-manifesto&#34;&gt;$\tau$ manifesto&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Tau Manifesto is dedicated to one of the most important numbers in mathematics, perhaps the most important: the circle constant relating the circumference of a circle to its linear dimension. For millennia, the circle has been considered the most perfect of shapes, and the circle constant captures the geometry of the circle in a single number. Of course, the traditional choice for the circle constant is ($\pi$)—but, as mathematician Bob Palais notes in his delightful article “$\pi$ is Wrong!”, $\pi$ is wrong. It’s time to set things right.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The L-functions and modular forms database (LMFDB)</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-lmfdb/</link>
+      <pubDate>Sun, 24 Sep 2023 12:22:43 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-lmfdb/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.lmfdb.org/&#34;&gt;LMFDB&lt;/a&gt;&#xA;&lt;a href=&#34;https://github.com/LMFDB/lmfdb&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The LMFDB is a database of mathematical objects arising in number theory and arithmetic geometry that illustrates some of the mathematical connections predicted by the Langlands program.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I love this website. I don&amp;rsquo;t understand anything on it.&#xA;But I&amp;rsquo;m amazed that this exists and I marvel at the amount of effort the writers must have put into making this happen.&#xA;I&amp;rsquo;ve always thought that number theory is unique in how it manages to straddle the concrete and the abstract worlds so effortlessly.&#xA;This website is a proof of this.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

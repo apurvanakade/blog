@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/tutorial/</link>
+    <description>Recent content in Tutorial on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 21:13:45 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short tactics tutorial</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-tactics/</link>
+      <pubDate>Thu, 31 Aug 2023 21:13:45 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-tactics/</guid>
+      <description>&lt;p&gt;I have always wanted to learn tactics writing in Lean.&#xA;But for whatever reason, none of the tutorials that exist online have been helpful.&#xA;I suspect that the best way to learn to write tactics to play around and modify the existing ones.&#xA;I came across this short, 4-page tactics tutorial that looks promising.&#xA;I&amp;rsquo;ll give it a go when I get some time.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-01-intro&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-01-intro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-02-demo&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-02-demo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-03-tactics&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-03-tactics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-04-linperm&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-04-linperm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

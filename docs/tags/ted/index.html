@@ -21,7 +21,7 @@
   </head>
 
 <script type="text/javascript" src='../../js/displayTagCloudFrame-3a4b171a.js'></script>
-<body class="list" onload="initSiteMap(&#34;https://apurvanakade.github.io/blog/tags/ted/&#34;)">
+<body class="list" onload="initSiteMap(&#34;/tags/ted/&#34;)">
   <a
   id="marker"
   href="javascript:showSiteMap()"
@@ -32,7 +32,7 @@
 <iframe
   id="siteMapFrame"
   class="close"
-  src="https://apurvanakade.github.io/blog/modules/sitemap/"
+  src='../../modules/sitemap/'
   frameborder="0"
 ></iframe>
 
@@ -42,14 +42,13 @@
     </div>
 
     
-<div class="cell" onclick="window.open('https:\/\/apurvanakade.github.io\/blog\/random\/stray-thoughts\/jolabokafloo\/','_self')">
+<div class="cell" onclick="window.open(this.querySelector('a.crosslink').getAttribute('href'),'_self')">
   <a class="crosslink" href="../../random/stray-thoughts/jolabokafloo/">Jólabókaflóð</a>
   <br>
   <a class="crosslink categories date" href="../../random/stray-thoughts/">Stray Thoughts</a>
-  <div class="post" onclick='javascript:window.open("https:\/\/apurvanakade.github.io\/blog\/random\/stray-thoughts\/jolabokafloo\/","_self");'>
-     I love words.
-I found this wholesome link on Reddit while I was doing some work (*cough*). As the US is riling under Mr. Pai&rsquo;s proud accomplishments there are some countries that have figured it all out.
-Every year since 1944, the Icelandic book trade has published a catalogue – called Bókatíð 
+  <div class="post" onclick="window.open(this.parentNode.querySelector('a.crosslink').getAttribute('href'),'_self');">
+      I love words.
+I found this  
     <a class="crosslink read-more" href="../../random/stray-thoughts/jolabokafloo/">
           . . . Read more</a>
   </div>
@@ -66,7 +65,7 @@ Every year since 1944, the Icelandic book trade has published a catalogue – ca
 
   <iframe 
     id="tagsCloudFrame" 
-    src="https://apurvanakade.github.io/blog/modules/tagcloud/" 
+    src='../../modules/tagcloud/'
     frameborder="0" 
     class="tags-display"
     scrolling="no" 
@@ -82,7 +81,7 @@ Every year since 1944, the Icelandic book trade has published a catalogue – ca
       
 
       
-          <a class="crosslink" href="../../">Home</a>
+          <a class="crosslink" href='../../'>Home</a>
       
       
     </td>

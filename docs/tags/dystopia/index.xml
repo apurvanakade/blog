@@ -1,21 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dystopia on PostDoc Problems</title>
+    <title>Dystopia on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/dystopia/</link>
-    <description>Recent content in dystopia on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Dystopia on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/dystopia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 09:28:43 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/dystopia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Severance</title>
+      <link>https://apurvanakade.github.io/blog/notes/series/2023-12-12-severance/</link>
+      <pubDate>Tue, 12 Dec 2023 09:28:43 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/notes/series/2023-12-12-severance/</guid>
+      <description>&lt;p&gt;I saw &lt;em&gt;Severance&lt;/em&gt; a while back when it was released but was reminded of it by a &lt;a href=&#34;https://verybadwizards.com/episode/episode-236-your-outie-is-skilled-at-lovemaking-with-paul-bloom&#34;&gt;brilliant episode of Very Bad Wizards&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I enjoy reading and watching sci-fi dystopian worlds. It is one of my favorite genres, one that sci-fi explores particularly well. However, rarely do any of these stories get under my skin. Even the deeply poignant ones with no redemptive qualities, like &lt;em&gt;Blade Runner&lt;/em&gt;, never perturbed me. I was moved by it emotionally and might have shed a tear at the final scene, but I was feeling things from a distance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Peripheral (Jackpot Trilogy)</title>
       <link>https://apurvanakade.github.io/blog/notes/books/the-peripheral/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/the-peripheral/</guid>
-      <description>My favorite part about William Gibson&amp;rsquo;s writing is his world building. He is truly a visionary, an understatement about the guy who envisioned The Matrix. What kept me getting back to The Peripheral was Gibson&amp;rsquo;s unique take on how humans would eventually merge with technology and the resulting fragmentation of society. In Neuromancer the world is chaotically dystopian, in The Peripheral the world is forlornly so.
-I find Gibson&amp;rsquo;s writing style intriguing, very synesthetic and schizophrenic.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/The_Peripheral&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/6/69/The_Peripheral_%281st_ed_cover%29_-_William_Gibson.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;My favorite part about William Gibson&amp;rsquo;s writing is his world building. He is truly a visionary, an understatement about the guy who envisioned &lt;em&gt;The Matrix&lt;/em&gt;. What kept me getting back to &lt;em&gt;The Peripheral&lt;/em&gt; was Gibson&amp;rsquo;s unique take on how humans would eventually merge with technology and the resulting fragmentation of society. In &lt;em&gt;Neuromancer&lt;/em&gt; the world is chaotically dystopian, in &lt;em&gt;The Peripheral&lt;/em&gt; the world is forlornly so.&lt;/p&gt;&#xA;&lt;p&gt;I find Gibson&amp;rsquo;s writing style intriguing, very synesthetic and schizophrenic. Nothing is introduced, sentences aren&amp;rsquo;t grammatically correct, or even complete for that matter. Verbs are used as nouns; colors are used as tastes and sounds. You spend the first few chapters learning his vocabulary and only then are able to keep up with the plot. I almost always have to read his books twice to understand them.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -21,7 +21,7 @@
   </head>
 
 <script type="text/javascript" src='../../js/displayTagCloudFrame-3a4b171a.js'></script>
-<body class="list" onload="initSiteMap(&#34;https://apurvanakade.github.io/blog/tags/uk/&#34;)">
+<body class="list" onload="initSiteMap(&#34;/tags/uk/&#34;)">
   <a
   id="marker"
   href="javascript:showSiteMap()"
@@ -32,7 +32,7 @@
 <iframe
   id="siteMapFrame"
   class="close"
-  src="https://apurvanakade.github.io/blog/modules/sitemap/"
+  src='../../modules/sitemap/'
   frameborder="0"
 ></iframe>
 
@@ -42,12 +42,12 @@
     </div>
 
     
-<div class="cell" onclick="window.open('https:\/\/apurvanakade.github.io\/blog\/notes\/series\/peakyblinders\/','_self')">
+<div class="cell" onclick="window.open(this.querySelector('a.crosslink').getAttribute('href'),'_self')">
   <a class="crosslink" href="../../notes/series/peakyblinders/">Peaky Blinders</a>
   <br>
   <a class="crosslink categories date" href="../../notes/series/">Series</a>
-  <div class="post" onclick='javascript:window.open("https:\/\/apurvanakade.github.io\/blog\/notes\/series\/peakyblinders\/","_self");'>
-     Of late, I&rsquo;ve lost the patience to watch long TV shows. Surprisingly, the pandemic made me want to watch series even less and instead I wasted a lot of time on YouTube watching short British comedy clips. I was then pleasantly surprised when I got hooked on to watching Peaky Blinders on Netfli 
+  <div class="post" onclick="window.open(this.parentNode.querySelector('a.crosslink').getAttribute('href'),'_self');">
+      Of late, I&rsquo;ve lost the patience to watch long TV shows. Surprisingly, the pandemic made me want  
     <a class="crosslink read-more" href="../../notes/series/peakyblinders/">
           . . . Read more</a>
   </div>
@@ -65,7 +65,7 @@
 
   <iframe 
     id="tagsCloudFrame" 
-    src="https://apurvanakade.github.io/blog/modules/tagcloud/" 
+    src='../../modules/tagcloud/'
     frameborder="0" 
     class="tags-display"
     scrolling="no" 
@@ -81,7 +81,7 @@
       
 
       
-          <a class="crosslink" href="../../">Home</a>
+          <a class="crosslink" href='../../'>Home</a>
       
       
     </td>

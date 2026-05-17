@@ -21,7 +21,7 @@
   </head>
 
 <script type="text/javascript" src='../../js/displayTagCloudFrame-3a4b171a.js'></script>
-<body class="list" onload="initSiteMap(&#34;https://apurvanakade.github.io/blog/tags/mandel/&#34;)">
+<body class="list" onload="initSiteMap(&#34;/tags/mandel/&#34;)">
   <a
   id="marker"
   href="javascript:showSiteMap()"
@@ -32,7 +32,7 @@
 <iframe
   id="siteMapFrame"
   class="close"
-  src="https://apurvanakade.github.io/blog/modules/sitemap/"
+  src='../../modules/sitemap/'
   frameborder="0"
 ></iframe>
 
@@ -42,12 +42,12 @@
     </div>
 
     
-<div class="cell" onclick="window.open('https:\/\/apurvanakade.github.io\/blog\/notes\/books\/station-eleven\/','_self')">
+<div class="cell" onclick="window.open(this.querySelector('a.crosslink').getAttribute('href'),'_self')">
   <a class="crosslink" href="../../notes/books/station-eleven/">Station Eleven</a>
   <br>
   <a class="crosslink categories date" href="../../notes/books/">Books</a>
-  <div class="post" onclick='javascript:window.open("https:\/\/apurvanakade.github.io\/blog\/notes\/books\/station-eleven\/","_self");'>
-     Survival is insufficient, is what it says on the lead caravan of the Traveling Symphony, a group of actors and musicians traversing the treacherous post-Georgian-Flu world which has wiped out most of humanity and destroyed the human civilization leaving behind scattered towns and technological relic 
+  <div class="post" onclick="window.open(this.parentNode.querySelector('a.crosslink').getAttribute('href'),'_self');">
+      Survival is insufficient, is what it says on the lead caravan of the Traveling Symphony,  
     <a class="crosslink read-more" href="../../notes/books/station-eleven/">
           . . . Read more</a>
   </div>
@@ -64,7 +64,7 @@
 
   <iframe 
     id="tagsCloudFrame" 
-    src="https://apurvanakade.github.io/blog/modules/tagcloud/" 
+    src='../../modules/tagcloud/'
     frameborder="0" 
     class="tags-display"
     scrolling="no" 
@@ -80,7 +80,7 @@
       
 
       
-          <a class="crosslink" href="../../">Home</a>
+          <a class="crosslink" href='../../'>Home</a>
       
       
     </td>

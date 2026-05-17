@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>music on PostDoc Problems</title>
+    <title>Music on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/music/</link>
-    <description>Recent content in music on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Music on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jan 2018 22:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Jan 2018 22:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blank Spaces</title>
       <link>https://apurvanakade.github.io/blog/random/stray-thoughts/blank-spaces/</link>
       <pubDate>Wed, 31 Jan 2018 22:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/blank-spaces/</guid>
-      <description>When I was making this blog I fidgeted around a lot with the style, trying to make it look pretty but I just couldn&amp;rsquo;t get it right. Until I realized that what makes a lot of websites pretty are the blank spaces.
-This is, in fact, true for almost all art forms. All good movies have those moments of stillness, all good conversations have those long spaces, most paintings have patches of featureless color, all novels have moments of long contemplation.</description>
+      <description>&lt;p&gt;When I was making this blog I fidgeted around a lot with the style, trying to make it look pretty but I just couldn&amp;rsquo;t get it right. Until I realized that what makes a lot of websites pretty are the blank spaces.&lt;/p&gt;&#xA;&lt;p&gt;This is, in fact, true for almost all art forms. All good movies have those moments of stillness, all good conversations have those long spaces, most paintings have patches of featureless color, all novels have moments of long contemplation.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Norwegian Wood</title>
       <link>https://apurvanakade.github.io/blog/notes/books/norwegian-wood/</link>
       <pubDate>Fri, 12 Jan 2018 09:20:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/norwegian-wood/</guid>
-      <description>&amp;ldquo;What happens when people open their hearts?&amp;quot;
-&amp;ldquo;They get better.” - Norwegian Wood
-Norwegian Wood is a teenage love story/coming of age story set mainly in Tokyo and the mountains of Kyoto. The name derives from the eponymous song by the Beatles.
-I have very mixed feelings about the book. On one hand, the book has a very pulp feeling to it. There are too many sex scenes described with unnecessary details (the scenes aren&amp;rsquo;t even interesting, just teenagers jerking each other off) and every conversation between the protagonists eventually converges towards sex, love, and masturbation.</description>
+      <description>&lt;figure class=&#34;left xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://www.goodreads.com/work/quotes/2956680-noruwei-no-mori&#34;&gt;&#xA;&lt;img src=&#34;https://images-na.ssl-images-amazon.com/images/I/51ko3M9LbhL._SX322_BO1,204,203,200_.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;What happens when people open their hearts?&amp;quot;&lt;br&gt;&#xA;&amp;ldquo;They get better.” &lt;br&gt;&#xA;&lt;em&gt;- Norwegian Wood&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Norwegian Wood&lt;/em&gt; is a teenage love story/coming of age story set mainly in Tokyo and the mountains of Kyoto. The name derives from the &lt;a href=&#34;https://www.youtube.com/watch?v=SiJiuhnDfck&#34;&gt;eponymous song&lt;/a&gt; by the Beatles.&lt;/p&gt;&#xA;&lt;p&gt;I have very mixed feelings about the book. On one hand, the book has a very pulp feeling to it. There are too many sex scenes described with unnecessary details (the scenes aren&amp;rsquo;t even interesting, just teenagers jerking each other off) and every conversation between the protagonists eventually converges towards sex, love, and masturbation. The protagonists are all immature teenagers mostly self-centered and suffering from the ever so familiar teenage angst.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

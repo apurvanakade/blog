@@ -21,7 +21,7 @@
   </head>
 
 <script type="text/javascript" src='../../js/displayTagCloudFrame-3a4b171a.js'></script>
-<body class="list" onload="initSiteMap(&#34;https://apurvanakade.github.io/blog/tags/alan-moore/&#34;)">
+<body class="list" onload="initSiteMap(&#34;/tags/alan-moore/&#34;)">
   <a
   id="marker"
   href="javascript:showSiteMap()"
@@ -32,7 +32,7 @@
 <iframe
   id="siteMapFrame"
   class="close"
-  src="https://apurvanakade.github.io/blog/modules/sitemap/"
+  src='../../modules/sitemap/'
   frameborder="0"
 ></iframe>
 
@@ -42,13 +42,13 @@
     </div>
 
     
-<div class="cell" onclick="window.open('https:\/\/apurvanakade.github.io\/blog\/notes\/books\/graphic-novels\/','_self')">
+<div class="cell" onclick="window.open(this.querySelector('a.crosslink').getAttribute('href'),'_self')">
   <a class="crosslink" href="../../notes/books/graphic-novels/">Graphic Novels</a>
   <br>
   <a class="crosslink categories date" href="../../notes/books/">Books</a>
-  <div class="post" onclick='javascript:window.open("https:\/\/apurvanakade.github.io\/blog\/notes\/books\/graphic-novels\/","_self");'>
-     HBO is bringing out a remixed version of the Watchmen and it brings back some very fond memories.
-When I first saw Zack Snyder&rsquo;s Watchmen I had never heard of Alan Moore or Neil Gaiman. I had seen Snyder&rsquo;s flashy, extreme slo-moed, over the top 300 which, if nothing else, was an enjoyabl 
+  <div class="post" onclick="window.open(this.parentNode.querySelector('a.crosslink').getAttribute('href'),'_self');">
+      HBO is bringing out a remixed version of the Watchmen and it brings back some very fond memories.
+ 
     <a class="crosslink read-more" href="../../notes/books/graphic-novels/">
           . . . Read more</a>
   </div>
@@ -65,7 +65,7 @@ When I first saw Zack Snyder&rsquo;s Watchmen I had never heard of Alan Moore or
 
   <iframe 
     id="tagsCloudFrame" 
-    src="https://apurvanakade.github.io/blog/modules/tagcloud/" 
+    src='../../modules/tagcloud/'
     frameborder="0" 
     class="tags-display"
     scrolling="no" 
@@ -81,7 +81,7 @@ When I first saw Zack Snyder&rsquo;s Watchmen I had never heard of Alan Moore or
       
 
       
-          <a class="crosslink" href="../../">Home</a>
+          <a class="crosslink" href='../../'>Home</a>
       
       
     </td>

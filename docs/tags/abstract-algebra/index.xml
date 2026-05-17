@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abstract Algebra on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/abstract-algebra/</link>
+    <description>Recent content in Abstract Algebra on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 08 Jun 2024 12:33:01 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/abstract-algebra/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pythagoras using Hilbert 90</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2024-05-08-pythagoras-hilbert-90/</link>
+      <pubDate>Sat, 08 Jun 2024 12:33:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2024-05-08-pythagoras-hilbert-90/</guid>
+      <description>&lt;p&gt;Dummit and Foote has a fun way of classifying Pythagorean triples. It is a classic fact that if $(a, b, c)$ is a reduced Pythagorean triple then there exists integers $m, n$ such that&lt;/p&gt;&#xA;&lt;p&gt;$$&#xA;\begin{align*}&#xA;a &amp;amp;= m^2 - n^2, \&#xA;b &amp;amp;= 2mn, \&#xA;c &amp;amp;= m^2 + n^2.&#xA;\end{align*}&#xA;$$&lt;/p&gt;&#xA;&lt;p&gt;To prove this using Hilbert&amp;rsquo;s 90, first we change the problem to rational numbers i.e.&#xA;let $a, b\in \mathbb{Q}$ be such that $a^2 + b^2 = 1$. We want to show that there exists $m, n \in \mathbb{Q}$ such that&#xA;$$&#xA;\begin{align*}&#xA;a &amp;amp;= \frac{m^2 - n^2}{m^2 + n^2}, \&#xA;b &amp;amp;= \frac{2mn}{m^2 + n^2}.&#xA;\end{align*}&#xA;$$&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

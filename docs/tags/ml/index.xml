@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ML on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/ml/</link>
+    <description>Recent content in ML on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 09 Sep 2023 22:37:41 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>llmstep and LeanInfer</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-09-llm/</link>
+      <pubDate>Sat, 09 Sep 2023 22:37:41 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-09-llm/</guid>
+      <description>&lt;p&gt;I came across two LLM based tactics for Lean&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/wellecks/llmstep&#34;&gt;llmstep: [L]LM proofstep suggestions in Lean&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/lean-dojo/LeanInfer&#34;&gt;LeanInfer: Neural Network Inference in Lean 4&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;They both use [LeanDojo](2023-09-04 leandojo.qmd) somehow and I don&amp;rsquo;t understand the difference between the two.&#xA;Unfortunately, I do not know enough about LLM and AI to tell if this is actually good or just hot gas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LeanDojo</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-04-leandojo/</link>
+      <pubDate>Mon, 04 Sep 2023 16:22:19 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-04-leandojo/</guid>
+      <description>&lt;p&gt;This was posted a while back on the Lean Zulip:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leandojo.org/&#34;&gt;LeanDojo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.15626&#34;&gt;LeanDojo: Theorem Proving with Retrieval-Augmented Language Models&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;According to their description, LeanDojo is an open-source Lean playground consisting of toolkits, data, models, and benchmarks. Plus they also provide an LLM-based prover and a chatGPT plugin.&#xA;All of this looks amazing and something worth learning more about.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

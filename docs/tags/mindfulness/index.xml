@@ -1,30 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mindfulness on PostDoc Problems</title>
+    <title>Mindfulness on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/mindfulness/</link>
-    <description>Recent content in mindfulness on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mindfulness on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Dec 2023 10:39:27 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/mindfulness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Intention</title>
+      <link>https://apurvanakade.github.io/blog/random/philosophy/2023-12-07-setting-intention/</link>
+      <pubDate>Thu, 07 Dec 2023 10:39:27 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/philosophy/2023-12-07-setting-intention/</guid>
+      <description>&lt;p&gt;One of the best &amp;ldquo;hacks&amp;rdquo; for being mindful and present is to set intentions before starting any task. This includes tasks like planning and concentrated thinking. You just &amp;ldquo;let your brain know&amp;rdquo; that this is what it needs to be doing now and it can return to other tasks afterward.&lt;/p&gt;&#xA;&lt;p&gt;This aligns with the analogy that the brain is a blind automaton with different parts working in parallel. There is communication between the various parts, but this communication is often delayed and imperfect. By setting intentions, you are sending a strong message from one part of the brain to another.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Being Present</title>
+      <link>https://apurvanakade.github.io/blog/random/philosophy/2023-11-30-present-moment/</link>
+      <pubDate>Thu, 07 Dec 2023 10:00:47 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/philosophy/2023-11-30-present-moment/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Be Here Now,&amp;rdquo; the classic book by Ram Dass, is supposed to encapsulate the project of meditation. The more I struggle with meditation, the more I realize how central this principle is to the practice.&lt;/p&gt;&#xA;&lt;p&gt;My brain is constantly future-looking, sometimes in small ways - I might be brewing coffee and simultaneously thinking about the joy of drinking it afterwards, or I might be biking to work while thinking of what I&amp;rsquo;m going to do in class today - and sometimes in large ways - I might be doing something mundane like laundry while worrying about my career and long-term future. We are genetically, culturally, and habitually in this constant state of chasing the future.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Love the Process</title>
+      <link>https://apurvanakade.github.io/blog/random/philosophy/2023-11-01-process-vs-goal/</link>
+      <pubDate>Wed, 01 Nov 2023 13:38:38 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/philosophy/2023-11-01-process-vs-goal/</guid>
+      <description>&lt;p&gt;There are two ways of approaching any task and life in general:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;goal oriented&lt;/li&gt;&#xA;&lt;li&gt;process oriented&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For some reason, very likely a mix of cultural and biological, the default is the first approach. You do things in order to get somewhere, to accomplish something.&lt;/p&gt;&#xA;&lt;p&gt;One of the most important teachings of the various contemplative traditions like Buddhism, Stoicism is that in order to find any semblance of equanimity you need to take the process oriented approach - love the process. The goal is often unattainable and impractical and even when it is attained the attainment itself is momentary and fleeting and once you&amp;rsquo;re done with it you&amp;rsquo;re left with a hollowness and a lack of direction.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Acceptance</title>
       <link>https://apurvanakade.github.io/blog/random/meditation/acceptance/</link>
       <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/meditation/acceptance/</guid>
-      <description>One of the often quoted, somewhat grandiose term from mindfulness is that of Acceptance. You&amp;rsquo;re supposed to &amp;ldquo;accept the current moment&amp;rdquo; for what it is.
-I was under the impression that I was doing this already and that I had pretty much figured it out. I&amp;rsquo;m a pretty chill guy who usually does not worry too much about future developments. I am good at being ok with any way things turn out, and tend not to get too stressed.</description>
+      <description>&lt;p&gt;One of the often quoted, somewhat grandiose term from mindfulness is that of Acceptance. You&amp;rsquo;re supposed to &amp;ldquo;accept the current moment&amp;rdquo; for what it is.&lt;/p&gt;&#xA;&lt;p&gt;I was under the impression that I was doing this already and that I had pretty much figured it out. I&amp;rsquo;m a pretty chill guy who usually does not worry too much about future developments. I am good at being ok with any way things turn out, and tend not to get too stressed. Although I have my limits and there have been situations in the past when I found myself very stressed and anxious. But these situations were far and few in-between, and most of the days I&amp;rsquo;m stress-free and anxiety-free (but somehow still depressed). And so I thought that I was being &amp;ldquo;accepting&amp;rdquo; of the present moment, but apparently not.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Brain as a Neural Net</title>
       <link>https://apurvanakade.github.io/blog/random/meditation/brain-as-a-neural-net/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/meditation/brain-as-a-neural-net/</guid>
-      <description>We&amp;rsquo;re still struggling to figure out exactly what Consciousness is. One theory that I kinda like (although I have no sense of how correct it is) is that consciousness is a way of approximating the base reality. There is too much data coming in through our senses, and it is impossible for every part of the brain to process everything at the same time. So it creates an approximation, which is perceived in the form of consciousness.</description>
+      <description>&lt;p&gt;We&amp;rsquo;re still struggling to figure out exactly what Consciousness is. One theory that I kinda like (although I have no sense of how correct it is) is that consciousness is a way of approximating the base reality. There is too much data coming in through our senses, and it is impossible for every part of the brain to process everything at the same time. So it creates an approximation, which is perceived in the form of consciousness. We can refine this statement slightly by saying that the brain is approximately a neural net, or some form of a predictive machine. The inputs to the machine come from the senses, the emotional and physical state of the body, the stored memories, and the stored habit patterns, and thoughts, and other higher order stuff that is not accessible to the consciousness and hence cannot be described in words, and the output is prediction of the future.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

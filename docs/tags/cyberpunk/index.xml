@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cyberpunk on PostDoc Problems</title>
+    <title>Cyberpunk on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/cyberpunk/</link>
-    <description>Recent content in cyberpunk on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cyberpunk on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/cyberpunk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/cyberpunk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neuromancer</title>
       <link>https://apurvanakade.github.io/blog/notes/books/neuromancer/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/neuromancer/</guid>
-      <description>&#34;The sky above the port was the color of television, tuned to a dead channel.&#34; -Neuromancer I always knew that The Matrix had to have found it&amp;rsquo;s concepts from some book, it was too revolutionary a movie to have spawned out of nothing. And I finally found it - Neuromancer, the archetypal cyberpunk novel.
-This is probably the hardest and simultaneously the most riveting sci-fi novel I&amp;rsquo;ve ever read. There is a perplexing duality in the text; some parts are vivid and visually stunning, while some others are wide open to interpretation.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/Neuromancer&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/4/4b/Neuromancer_%28Book%29.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;i&gt;&#34;The sky above the port was the color of television, tuned to a dead channel.&#34;&lt;/i&gt; &#x9;&#xA;&lt;br /&gt;&#xA;&lt;span class=&#34;right&#34;&gt;-Neuromancer&lt;/span&gt;&#xA;&lt;br /&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I always knew that &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Matrix&#34;&gt;The Matrix&lt;/a&gt; had to have found it&amp;rsquo;s concepts from some book, it was too revolutionary a movie to have spawned out of nothing. And I finally found it - &lt;a href=&#34;https://en.wikipedia.org/wiki/Neuromancer&#34;&gt;Neuromancer&lt;/a&gt;, the archetypal cyberpunk novel.&lt;/p&gt;&#xA;&lt;p&gt;This is probably the hardest and simultaneously the most riveting sci-fi novel I&amp;rsquo;ve ever read. There is a perplexing duality in the text; some parts are vivid and &lt;em&gt;visually&lt;/em&gt; stunning, while some others are wide open to interpretation. While you are able to follow the characters emotionally and conversationally, for the most part you are left without a hint as to how they are moving in physical space. The emotion and the feeling of the world are conveyed but the shape of it is left vague. You&amp;rsquo;re completely hooked by the plot, and at the same time left fumbling in the dark for anything concrete to base your imagination on, which makes it both a liberating and a frustrating read. Where traditional sci-fi writers spend pages upon pages &lt;em&gt;showing&lt;/em&gt; their world to you, Gibson restrains, choosing not to add lyrics to his symphonies.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

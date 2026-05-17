@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todo on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/todo/</link>
+    <description>Recent content in Todo on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Nov 2023 12:27:01 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Combinatorial Nullstellensatz</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-11-26-combinatorial-nullstellensatz/</link>
+      <pubDate>Sun, 26 Nov 2023 12:27:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-11-26-combinatorial-nullstellensatz/</guid>
+      <description>&lt;p&gt;I came across this fun theorem in a talk about tree colorings:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Combinatorial Nullstellensatz.&lt;/strong&gt; Let $f \in F[x_1, x_2, \ldots, x_n]$ be&#xA;a polynomial of degree $t_1 + \cdots + t_n$. If $S_1, S_2, \ldots, S_n$ are nonempty subsets&#xA;of $F$ such that $\left| S_i \right| \geq t_i + 1$ for all $i$, then there exists $s_1 \in S_1$, $s_2 \in S_2$, $\ldots$,&#xA;$s_n \in S_n$ for which&#xA;$$&#xA;f(s_1, s_2, \ldots, s_n) \neq 0&#xA;$$&#xA;as long as the coefficient of $x_1^{t_1} x_2^{t_2} \cdots x_n^{t_n}$ is nonzero.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Logarithms and primes</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-10-26-ln-series/</link>
+      <pubDate>Thu, 26 Oct 2023 09:01:26 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-10-26-ln-series/</guid>
+      <description>&lt;p&gt;I came across &lt;a href=&#34;https://youtu.be/YAsHGOwB408?si=Cwpk8X24xNNh2OS9&#34;&gt;this video&lt;/a&gt; by NumberPhile and 3Blue1Brown about the density of primes that are 1 mod 4 vs the density of primes that are 3 mod 4.&#xA;The main fact is quite cool but there was something that he said during in the middle of the video that I found more interesting.&lt;/p&gt;&#xA;&lt;p&gt;Define $\chi : \mathbb{N} \to {-1, 0, 1}$ as&#xA;$$&#xA;\chi(n) =&#xA;\begin{cases}&#xA;1 &amp;amp; \text{ if } n \equiv 1 \mod 4 \&#xA;-1 &amp;amp; \text{ if } n \equiv 3 \mod 4 \&#xA;0  &amp;amp; \text{ otherwise. }&#xA;\end{cases}&#xA;$$&#xA;The first interesting fact that I do not know how to prove:&#xA;$$&#xA;\sum \limits_{n \in \mathbb{N}} \dfrac{\chi(n)}{n} = \dfrac{\pi}{4}.&#xA;$$&#xA;Note that the series is only conditionally convergent so the order of summation matters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Every Prime $\equiv 1 \mod 4$ Is a Sum of Two Squares</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-10-prime-sum-of-squares/</link>
+      <pubDate>Sun, 10 Sep 2023 15:35:44 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-10-prime-sum-of-squares/</guid>
+      <description>&lt;p&gt;I came across this &amp;ldquo;one sentence&amp;rdquo; proof that every prime congruent to 1 mod 4 can be written as a sum of two squares:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://doi.org/10.2307/2323918&#34;&gt;https://doi.org/10.2307/2323918&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;The proof involves constructing the following cryptic involution&#xA;$$&#xA;(x, y, z) \mapsto \begin{cases}(x+2 z, z, y-x-z) &amp;amp; \text { if } x&amp;lt;y-z \ (2 y-x, y, x-y+z) &amp;amp; \text { if } y-z&amp;lt;x&amp;lt;2 y \ (x-2 y, x-y+z, y) &amp;amp; \text { if } x&amp;gt;2 y\end{cases}&#xA;$$&#xA;on the set $S=\left{(x, y, z) \in \mathbb{N}^{3}: x^{2}+4 y z=p\right}$  and showing that the involution has exactly one fixed point $(1, 1, k)$ if and only if $p$ is a prime of the form $4k + 1$.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,5 +1,5 @@
 ---
 title: "siteMap"
 type: "modules"
-layout: "siteMap"
+layout: "sitemap"
 ---

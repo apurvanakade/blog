@@ -1,71 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>philosophy on PostDoc Problems</title>
+    <title>Philosophy on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/philosophy/</link>
-    <description>Recent content in philosophy on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Philosophy on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Feb 2024 07:56:13 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mind Game</title>
+      <link>https://apurvanakade.github.io/blog/notes/movies/2024-02-09-mindgame/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/notes/movies/2024-02-09-mindgame/</guid>
+      <description>&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/2fmmCsyK1dY?si=spi_zi6VDhhC6v9Z&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;Weird as fuck is the only was to describe this movie - at least at the start.&lt;/p&gt;&#xA;&lt;p&gt;The movie follows a sad, little guy who is stuck in self-pity. Then some random events happen and he gets stuck with 3 other characters on a cast-away type of situation.&#xA;The rest of the movie is the 4 of them shedding their fake shells and discovering their true selves.&#xA;I have been thinking about these same things lately and this movie almost feels like it&amp;rsquo;s written personally for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Love the Process</title>
+      <link>https://apurvanakade.github.io/blog/random/philosophy/2023-11-01-process-vs-goal/</link>
+      <pubDate>Wed, 01 Nov 2023 13:38:38 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/philosophy/2023-11-01-process-vs-goal/</guid>
+      <description>&lt;p&gt;There are two ways of approaching any task and life in general:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;goal oriented&lt;/li&gt;&#xA;&lt;li&gt;process oriented&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For some reason, very likely a mix of cultural and biological, the default is the first approach. You do things in order to get somewhere, to accomplish something.&lt;/p&gt;&#xA;&lt;p&gt;One of the most important teachings of the various contemplative traditions like Buddhism, Stoicism is that in order to find any semblance of equanimity you need to take the process oriented approach - love the process. The goal is often unattainable and impractical and even when it is attained the attainment itself is momentary and fleeting and once you&amp;rsquo;re done with it you&amp;rsquo;re left with a hollowness and a lack of direction.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Automated Mathematics and the Reconfiguration of Proof and Labor</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-24-automated-mathematics-and-the-reconfiguration-of-proof-and-labor/</link>
+      <pubDate>Sun, 24 Sep 2023 12:14:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-24-automated-mathematics-and-the-reconfiguration-of-proof-and-labor/</guid>
+      <description>&lt;p&gt;I came across this essay by Rodrigo Ochigame exploring possible future impact of math formalization and automation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2309.11457v1&#34;&gt;Automated Mathematics and the Reconfiguration of Proof and Labor&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Abstract:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;This essay examines how automation has reconfigured mathematical proof and labor, and what might happen in the future. It discusses practical standards of proof, distinguishes between prominent forms of automation in research, provides critiques of recurring assumptions, and asks how automation might reshape economies of labor and credit.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>What is an Idea?</title>
       <link>https://apurvanakade.github.io/blog/random/philosophy/what-is-an-idea/</link>
       <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/philosophy/what-is-an-idea/</guid>
-      <description>A couple of weeks ago, on an evening of drinking and philosophizing, a friend asked me this question and I did not have any answer then.
-Chris Anderson&amp;rsquo;s video about giving TED talks kept popping into my mind; I remembered it mostly for the pretty visuals it had representing what an idea is. But I could not extract out an exact definition from it. Just this morning, as I was reading Siddhartha Mukherjee&amp;rsquo;s book about genes, the answer popped into my mind.</description>
+      <description>&lt;p&gt;A couple of weeks ago, on an evening of drinking and philosophizing, a friend asked me this question and I did not have any answer then.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-FOCpMAww28&#34;&gt;Chris Anderson&amp;rsquo;s video&lt;/a&gt; about giving TED talks kept popping into my mind; I remembered it mostly for the pretty visuals it had representing what an idea is. But I could not extract out an exact definition from it. Just this morning, as I was reading &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History&#34;&gt;Siddhartha Mukherjee&amp;rsquo;s book&lt;/a&gt; about genes, the answer popped into my mind.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Philosophy &amp; Me</title>
       <link>https://apurvanakade.github.io/blog/random/philosophy/philosophy-and-me/</link>
       <pubDate>Mon, 12 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/philosophy/philosophy-and-me/</guid>
-      <description>Disclaimer: I&amp;rsquo;m using the term Philosophy in an ill-defined manner. For me, it means something like an analytical tool or a way of thinking, and not a subject studied in universities.
-I grew up with a deep distaste for Philosophy, thanks to having seen the perils of eastern philosophies first hand, and also thanks to the disdain that physicists like Feynman (whom I greatly admire) showed toward the subject. However, of late, my attitude towards it has changed completely.</description>
+      <description>&lt;p&gt;&lt;em&gt;Disclaimer:&lt;/em&gt; I&amp;rsquo;m using the term Philosophy in an ill-defined manner. For me, it means something like an analytical tool or a way of thinking, and not a subject studied in universities.&lt;/p&gt;&#xA;&lt;p&gt;I grew up with a deep distaste for Philosophy, thanks to having seen the perils of eastern philosophies first hand, and also thanks to the disdain that physicists like Feynman (whom I greatly admire) showed toward the subject. However, of late, my attitude towards it has changed completely. I now &amp;ldquo;like&amp;rdquo; Philosophy a lot, so much so that I spend more time thinking of Philosophical questions than other things. (This is probably a temporary phase, like getting a new toy, or discovering a new artist.) And yet, there are times when I feel deep disgust and loathing toward it. I think I now understand the reason behind this cognitive dissonance. The issue is with the &amp;ldquo;use&amp;rdquo; of Philosophy. As long as I use it for the right thing there is no paradox, but as soon as it spills over outside of its domain there is conflict.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>The Fall</title>
       <link>https://apurvanakade.github.io/blog/notes/books/the-fall/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/the-fall/</guid>
-      <description>With every Camus book there are two major problems:
-The writing is purposefully contrived, possibly lost in translation from French. The meaning is purposefully contrived, possibly lost in translation from French. In spite of this, I just cannot get enough of his books. He is the most enlightened person I&amp;rsquo;ve ever read.
-The Fall is the story of a benevolent lawyer who is always going out of his ways to help others, a hugely successful lawyer who offers his services to the poor for free.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/The_Fall_(Camus_novel)&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/a/a1/La_Chute_title_page.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;With every Camus book there are two major problems:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The writing is purposefully contrived, possibly lost in translation from French.&lt;/li&gt;&#xA;&lt;li&gt;The meaning is purposefully contrived, possibly lost in translation from French.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;In spite of this, I just cannot get enough of his books.&#xA;He is the most enlightened person I&amp;rsquo;ve ever read.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Fall&lt;/em&gt; is the story of a benevolent lawyer who is always going out of his ways to help others, a hugely successful lawyer who offers his services to the poor for free. He is the perfect partner in love and the best friend one can possibly hope for.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Crime and Punishment</title>
       <link>https://apurvanakade.github.io/blog/notes/books/crime-and-punishment/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/crime-and-punishment/</guid>
-      <description>&amp;ldquo;What do you think, would not one tiny crime be wiped out by thousands of good deeds?&amp;rdquo;
-Crime and Punishment is Dostoevsky&amp;rsquo;s criticism of naive rationalism, utilitarianism, and armchair philosophizing. For such a boring topic, this is a surprisingly fun read. Adhering to his own criticism, Dostoevsky does not take to prophesying and making grand philosophical arguments about the pros and cons of communism but instead weaves an interesting and entertaining narrative of what might happen if one were to take rationalism to its extreme.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.&#xA;wikipedia.&#xA;org/wiki/Crime_and_Punishment&#34;&gt;&#xA;&lt;img src=&#34;https://upload.&#xA;wikimedia.&#xA;org/wikipedia/en/4/4b/Crimeandpunishmentcover.&#xA;png&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;What do you think, would not one tiny crime be wiped out by thousands of good deeds?&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Crime and Punishment&lt;/em&gt; is Dostoevsky&amp;rsquo;s criticism of naive rationalism, utilitarianism, and armchair philosophizing.&#xA;For such a boring topic, this is a surprisingly fun read.&#xA;Adhering to his own criticism, Dostoevsky does not take to prophesying and making grand philosophical arguments about the pros and cons of communism but instead weaves an interesting and entertaining narrative of what might happen if one were to take rationalism to its extreme.&#xA;Like Orwell, Dostoevsky also sees communism, and more broadly utilitarianism, ultimately leading to &amp;ldquo;all animals are equal but some animals are more equal than others&amp;rdquo;.&#xA;However, unlike Orwell Dostoevsky sees this happening on an individual rather than societal level.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Not Knowing</title>
       <link>https://apurvanakade.github.io/blog/journal/lockdown-diaries/not-knowing/</link>
       <pubDate>Sun, 07 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/journal/lockdown-diaries/not-knowing/</guid>
-      <description>Here&#39;s something I have been thinking about a lot lately, thanks mostly to my being on the internet almost constantly. We live in a world where we can just google the answer to many of the questions that arise in day-to-day life. This is great in that it is harder to lie about things and this increases equity and transparency in that one does not have to trust another person&amp;rsquo;s word blindly.</description>
+      <description>&lt;p&gt;Here&#39;s something I have been thinking about a lot lately, thanks mostly to my being on the internet almost constantly.&#xA;We live in a world where we can just google the answer to many of the questions that arise in day-to-day life.&#xA;This is great in that it is harder to lie about things and this increases equity and transparency in that one does not have to trust another person&amp;rsquo;s word blindly.&#xA;However, this also has two very pernicious effects.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Myth of Sisyphus</title>
       <link>https://apurvanakade.github.io/blog/notes/books/myth-of-sisyphus/</link>
       <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/myth-of-sisyphus/</guid>
-      <description>“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world.” The central question, says Camus, is that of suicide. If you are going to die one day, why not just kill yourself now?
-Starting from here, he develops the philosophy of the absurd.</description>
+      <description>&lt;figure class=&#34;left xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/The_Myth_of_Sisyphus&#34;&gt;&#xA;&lt;img src=&#34;https://images-na.ssl-images-amazon.com/images/I/41LQWTh9bWL._SX322_BO1,204,203,200_.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;“Man stands face to face with the irrational. He feels within him his longing for happiness and for reason. The absurd is born of this confrontation between the human need and the unreasonable silence of the world.”&lt;/em&gt; &lt;br&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The central question, says Camus, is that of suicide. If you are going to die one day, why not just kill yourself now?&lt;/p&gt;&#xA;&lt;p&gt;Starting from here, he develops the philosophy of the &lt;em&gt;absurd&lt;/em&gt;. The word absurd comes from the failed attempts of our limited logical minds to try and rationalize the limitless, mostly chaotic, unreasonable world. The absurd lies at the boundary of chaos and order and is both inevitable and essential. Camus strongly objects to the human program of trying to use reason for making every single decision. He thinks this only stifles us and prevents us from fully realizing ourselves.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

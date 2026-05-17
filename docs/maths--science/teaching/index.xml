@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/maths--science/teaching/</link>
+    <description>Recent content in Teaching on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/maths--science/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project NExT Workshop</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/teaching/projectnext/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/teaching/projectnext/</guid>
+      <description>&lt;p&gt;I was at a 5 day Project NExT workshop. I heard from a lot of interesting people and learned a lot about teaching. The thing that stood out to me the most was just how different math researchers are from math educators. Math researchers mostly share a feeling of contempt toward people, people are just means of discovering math,  whereas math educators care only about people, math just happens to be thing they teach. I have not yet figured out which camp I fall in. Below are my raw notes from the five days.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Calc1000</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/teaching/calc1000/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/teaching/calc1000/</guid>
+      <description>&lt;p&gt;I just finished teaching the largest class I have taught so far.&#xA;It went as well as one would expect a class, that is held in the bleak Canadian fall nights for two hours straight twice a week with a student to faculty ratio of 200:1, to go.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Biweekly quizzes.&lt;/strong&gt; This was the one thing that worked really well. Frequent evaluation is the key to keeping students on schedule, especially freshmen. In the future, I am planning on having weekly, instead of biweekly, quizzes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Giving a Math Talk</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/teaching/giving-a-math-talk/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/teaching/giving-a-math-talk/</guid>
+      <description>&lt;p&gt;I recently saw this &lt;a href=&#34;https://www.youtube.com/watch?v=0nI65jgHG9o&#34;&gt;fun video&lt;/a&gt; about the tension between clarity and mystery and the role of this tension in creating good design. It made me think about giving a math talk.&#xA;I think the element of mystery is often neglected when one prepares a math class or just a math talk.&lt;/p&gt;&#xA;&lt;p&gt;It is understood that unlike, say, in fiction, mystery is undesirable in mathematics.&#xA;While it is good to have a bunch of unsolved problems to work on, we would very much like to know the answers to them.&#xA;All mathematicians are glad that we now know the proof of Fermat&amp;rsquo;s big conjecture and the Poincare conjecture, and most mathematicians would sell their soul to know the proofs of the Riemann hypothesis and solution to the Navier-Stokes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Symmetries &amp; Polynomials</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/teaching/symmetries--polynomials/</link>
+      <pubDate>Wed, 17 Jan 2018 18:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/teaching/symmetries--polynomials/</guid>
+      <description>&lt;figure class=&#34;xsmall right&#34;&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Galois_theory#History&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/5/53/Evariste_galois.jpg&#34;&gt;&#xA;&lt;/a&gt;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;In the broad light of day mathematicians check their equations and their proofs, leaving no stone unturned in their search for rigour. But, at night, under the full moon, they dream, they float among the stars and wonder at the miracle of the heavens. They are inspired. Without dreams there is no art, no mathematics, no life.&amp;rdquo; &lt;br&gt;-Michael Atiyah&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;I finally finished &lt;a href=&#34;https://apurvanakade.github.io/funmaths.html&#34;&gt;my week long class&lt;/a&gt; on the ideas behind Galois&amp;rsquo; proof of why a quintic cannot be solved using radicals. As if mirroring my inner self the ground is laden with snow today and there is no wind, a quiet calm pervades the city with a piercing whiteness that but absorbs all your thoughts and leaves you cleaner and in peace with your inner self, like a beautiful symphony fading into nothingness.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

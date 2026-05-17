@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>introspection on PostDoc Problems</title>
+    <title>Introspection on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/introspection/</link>
-    <description>Recent content in introspection on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Introspection on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/introspection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/introspection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sleep</title>
       <link>https://apurvanakade.github.io/blog/journal/lockdown-diaries/sleep/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/journal/lockdown-diaries/sleep/</guid>
-      <description>I have heard Matthew Walker talk about sleep, a lot. But I never really took him seriously. I find him preachy and his talks are always exaggerated. The first time I got really curious about sleep is when I heard this talk: One of the silver linings of this depressing lockdown is that this has given me a lot of time to reflect and introspect, look inwards as they say. I have developed supernatural observational and organizational skills.</description>
+      <description>&lt;p&gt;I have heard &lt;a href=&#34;https://youtu.be/5MuIMqhT8DM&#34;&gt;Matthew Walker&lt;/a&gt; talk about sleep, &lt;a href=&#34;https://www.youtube.com/watch?v=pwaWilO_Pig&#34;&gt;a lot&lt;/a&gt;.&#xA;But I never really took him seriously.&#xA;I find him preachy and his talks are always exaggerated.&#xA;The first time I got really curious about sleep is when I heard this talk:&#xA;&lt;div class=&#34;center&#34;&gt;&#xA;  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/MJK-dMlATmM&#34; frameborder=&#34;0&#34; gesture=&#34;media&#34; allow=&#34;encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;One of the silver linings of this depressing lockdown is that this has given me a lot of time to reflect and introspect, look inwards as they say.&#xA;I have developed supernatural observational and organizational skills.&#xA;I keep a record of almost everything these days, which is easy to do, as I&amp;rsquo;m never too far from a computer.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Observing Your Thoughts</title>
       <link>https://apurvanakade.github.io/blog/random/meditation/observing-your-thoughts/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/meditation/observing-your-thoughts/</guid>
-      <description>&amp;ldquo;You are right, Watson,&amp;rdquo; said he. &amp;ldquo;It does seem a most preposterous way of settling a dispute.&amp;rdquo;
-&amp;ldquo;Most preposterous!&amp;rdquo; I exclaimed, and then suddenly realizing how he had echoed the inmost thought of my soul, I sat up in my chair and stared at him in blank amazement&amp;quot; - Adventures of the Cardboard Box
-Sherlock Holmes might have been able to predict the thoughts of Dr. Watson but I have found out that predicting my own thoughts is enough of a challenge for me.</description>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;You are right, Watson,&amp;rdquo; said he. &amp;ldquo;It does seem a most preposterous way of settling a dispute.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;ldquo;Most preposterous!&amp;rdquo; I exclaimed, and then suddenly realizing how he had echoed the inmost thought of my soul, I sat up in my chair and stared at him in blank amazement&amp;quot;&lt;/em&gt; &lt;br /&gt; - Adventures of the Cardboard Box&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Sherlock Holmes might have been able to predict the thoughts of Dr. Watson but I have found out that predicting my own thoughts is enough of a challenge for me.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathblog on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/mathblog/</link>
+    <description>Recent content in Mathblog on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Nov 2023 13:21:33 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/mathblog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Terrence Tao - Lean</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-terrytao/</link>
+      <pubDate>Wed, 01 Nov 2023 13:21:33 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-terrytao/</guid>
+      <description>&lt;p&gt;Terry Tao posted on &lt;a href=&#34;https://mathstodon.xyz/@tao/111287749336059662&#34;&gt;Mastodon&lt;/a&gt; that he found a bug in a proof in one of &lt;a href=&#34;https://arxiv.org/pdf/2310.05328.pdf&#34;&gt;his papers&lt;/a&gt; thanks to trying to formalize it in Lean.&#xA;This is an excellent use case of Lean and tbh the only one that I think is going to be taken seriously for a while.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

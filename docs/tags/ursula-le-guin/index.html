@@ -21,7 +21,7 @@
   </head>
 
 <script type="text/javascript" src='../../js/displayTagCloudFrame-3a4b171a.js'></script>
-<body class="list" onload="initSiteMap(&#34;https://apurvanakade.github.io/blog/tags/ursula-le-guin/&#34;)">
+<body class="list" onload="initSiteMap(&#34;/tags/ursula-le-guin/&#34;)">
   <a
   id="marker"
   href="javascript:showSiteMap()"
@@ -32,7 +32,7 @@
 <iframe
   id="siteMapFrame"
   class="close"
-  src="https://apurvanakade.github.io/blog/modules/sitemap/"
+  src='../../modules/sitemap/'
   frameborder="0"
 ></iframe>
 
@@ -42,12 +42,12 @@
     </div>
 
     
-<div class="cell" onclick="window.open('https:\/\/apurvanakade.github.io\/blog\/notes\/books\/left-hand-of-darkness\/','_self')">
+<div class="cell" onclick="window.open(this.querySelector('a.crosslink').getAttribute('href'),'_self')">
   <a class="crosslink" href="../../notes/books/left-hand-of-darkness/">Left Hand of Darkness</a>
   <br>
   <a class="crosslink categories date" href="../../notes/books/">Books</a>
-  <div class="post" onclick='javascript:window.open("https:\/\/apurvanakade.github.io\/blog\/notes\/books\/left-hand-of-darkness\/","_self");'>
-     "...when we’re done with it, we may find—if it’s a good novel—that we’re a bit different from what we were before we read it, that we have been changed a little, as if by having met a new face, crossed a street we never crossed before. But it’s very hard to say just what we learned, how we were chan 
+  <div class="post" onclick="window.open(this.parentNode.querySelector('a.crosslink').getAttribute('href'),'_self');">
+      "...when we’re done with it, we m 
     <a class="crosslink read-more" href="../../notes/books/left-hand-of-darkness/">
           . . . Read more</a>
   </div>
@@ -64,7 +64,7 @@
 
   <iframe 
     id="tagsCloudFrame" 
-    src="https://apurvanakade.github.io/blog/modules/tagcloud/" 
+    src='../../modules/tagcloud/'
     frameborder="0" 
     class="tags-display"
     scrolling="no" 
@@ -80,7 +80,7 @@
       
 
       
-          <a class="crosslink" href="../../">Home</a>
+          <a class="crosslink" href='../../'>Home</a>
       
       
     </td>

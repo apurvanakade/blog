@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>free will on PostDoc Problems</title>
+    <title>Free Will on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/free-will/</link>
-    <description>Recent content in free will on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Free Will on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/free-will/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/free-will/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where do thoughts come from?</title>
       <link>https://apurvanakade.github.io/blog/random/meditation/where-do-thoughts-come-from/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/meditation/where-do-thoughts-come-from/</guid>
-      <description>I had been thinking on and off about free will for some time now. To anyone who has some time to think, the pandemic is bound to raise some serious questions about control and free will. The following marathon conversation between Lex Fridman and Sam Harris rekindled my interest in the subject.
-Do humans have free will?
-At the most fundamental level, the answer has to be no as we are all bound by the laws of physics.</description>
+      <description>&lt;p&gt;I had been thinking on and off about &lt;em&gt;free will&lt;/em&gt; for some time now. To anyone who has some time to think, the pandemic is bound to raise some serious questions about control and free will. The following marathon conversation between Lex Fridman and Sam Harris rekindled my interest in the subject.&lt;/p&gt;&#xA;&lt;div class=&#34;center&#34;&gt;&#xA;  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/4dC_nRYIDZU&#34; frameborder=&#34;0&#34; gesture=&#34;media&#34; allow=&#34;encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;Do humans have free will?&lt;/p&gt;&#xA;&lt;p&gt;At the most fundamental level, the answer has to be &lt;em&gt;no&lt;/em&gt; as we are all bound by the laws of physics. This doesn&amp;rsquo;t mean that our actions are predetermined but rather the probabilities of our actions are. This is being proven more and more true today, as the machine learning algorithms employed by the giant ad sellers manage so successfully to predict and manipulate our wants and desires. Even before we know what we want the algorithms do. They know us better than we know ourselves. Everyone has had this creepy experience where you start seeing ads about things that were &amp;ldquo;only on your mind&amp;rdquo;, things that you never searched for on the computer. Many people think that our phones are eavesdropping on our conversations, and perhaps they are, but it is also not unlikely that the algorithms have a version of us in a &amp;ldquo;data form&amp;rdquo; which can be used to simulate us and predict our behaviors.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

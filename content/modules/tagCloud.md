@@ -1,5 +1,5 @@
 ---
 title: "tagCloud"
 type: "modules"
-layout: "tagCloud"
+layout: "tagcloud"
 ---

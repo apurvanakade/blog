@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>books on PostDoc Problems</title>
+    <title>Books on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/books/</link>
-    <description>Recent content in books on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Books on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Dec 2017 21:15:13 -0500</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2017 21:15:13 -0500</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jólabókaflóð</title>
       <link>https://apurvanakade.github.io/blog/random/stray-thoughts/jolabokafloo/</link>
       <pubDate>Thu, 14 Dec 2017 21:15:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/jolabokafloo/</guid>
-      <description>I love words.
-I found this wholesome link on Reddit while I was doing some work (*cough*). As the US is riling under Mr. Pai&amp;rsquo;s proud accomplishments there are some countries that have figured it all out.
-Every year since 1944, the Icelandic book trade has published a catalogue – called Bókatíðindi (‘Book Bulletin’, in English) – that is sent to every household in the country in mid-November during the Reykjavik Book Fair.</description>
+      <description>&lt;figure class=&#34;xlarge&#34;&gt;&lt;img src=&#34;https://i.pinimg.com/originals/d4/5b/64/d45b64567827794b7ca0c8274d05c39b.jpg&#34;&#xA;    alt=&#34;I suppose if we couldn&amp;#39;t laugh at things that don&amp;#39;t make sense, we couldn&amp;#39;t react to a lot of life.&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;I love words.&lt;/p&gt;&#xA;&lt;p&gt;I found this &lt;a href=&#34;https://jolabokaflod.org/about/founding-story/&#34;&gt;wholesome link&lt;/a&gt; on &lt;a href=&#34;https://www.reddit.com/r/todayilearned/comments/7jtfju/til_an_icelandic_tradition_called_j%C3%B3lab%C3%B3kafl%C3%B3%C3%B0/&#34;&gt;Reddit&lt;/a&gt; while I was doing some work (*cough*). As the US is riling under Mr. Pai&amp;rsquo;s proud accomplishments there are some countries that have figured it all out.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Every year since 1944, the Icelandic book trade has published a catalogue – called Bókatíðindi (‘Book Bulletin’, in English) – that is sent to every household in the country in mid-November during the Reykjavik Book Fair. People use the catalogue to order books to give friends and family for Christmas.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

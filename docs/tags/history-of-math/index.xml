@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>History of Math on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/history-of-math/</link>
+    <description>Recent content in History of Math on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 29 Aug 2023 09:13:31 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/history-of-math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Etymology of *Integer*</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-29-integers/</link>
+      <pubDate>Tue, 29 Aug 2023 09:13:31 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-29-integers/</guid>
+      <description>&lt;p&gt;We use integers so much in math that it never occurred to me before yesterday that this is a weird word with a weirder symbol associated to it.&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/Integer#History&#34;&gt;Wikipedia&lt;/a&gt; explains this very nicely.&lt;/p&gt;&#xA;&lt;p&gt;The words &lt;em&gt;integer&lt;/em&gt; and &lt;em&gt;entire&lt;/em&gt; share the same Latin root: &lt;em&gt;in&lt;/em&gt; (&amp;ldquo;not&amp;rdquo;) plus &lt;em&gt;tangere&lt;/em&gt; (&amp;ldquo;to touch&amp;rdquo;).&#xA;Google says that the first known use of the word integer was in &lt;strong&gt;1571&lt;/strong&gt; by &lt;em&gt;Thomas Digges&lt;/em&gt; in a book called &lt;em&gt;A Geometrical Practise Named Pantometria&lt;/em&gt;.&#xA;The word origin still doesn&amp;rsquo;t make complete sense to me but then I don&amp;rsquo;t know any Latin.&#xA;The symbol $\mathbb{Z}$ comes from &lt;em&gt;Zahlen&lt;/em&gt;, which is German for numbers, and was first used by Hilbert.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>History-of-Math Resources</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-21-history-of-math/</link>
+      <pubDate>Mon, 21 Aug 2023 22:30:11 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-08-21-history-of-math/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve always been fascinated by the history of mathematics. Some of the classic and dramatic discoveries I read a kid were those of non-Euclidean geometry, Galois theory, the proof of Fermat’s last theorem, as well as Cantor and Gödel’s breakthroughs in logic. However, some of the more commonplace achievements, such as the invention of calculus by Newton and its subsequent formalization a century later through $\epsilon \delta$ proofs, also possess a very intriguing narrative that involves not only mathematicians but also philosophers and theologians&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

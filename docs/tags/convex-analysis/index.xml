@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Convex Analysis on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/convex-analysis/</link>
+    <description>Recent content in Convex Analysis on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Jan 2024 00:13:03 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/convex-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Closed Convex Cones in LP</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2024-01-02-closed-cones/</link>
+      <pubDate>Tue, 02 Jan 2024 00:13:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2024-01-02-closed-cones/</guid>
+      <description>&lt;p&gt;I was formalizing some linear programming in Lean and came across one of the most surprisingly difficult to prove theorems.&lt;/p&gt;&#xA;&lt;p&gt;::: {#thm-closed-convex-cones}&#xA;&lt;br /&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let $A : \mathbb{R}^m \to \mathbb{R}^n$ be a linear transformation. Then the set&#xA;$$&#xA;{ A x : : : x \ge 0 }&#xA;$$&#xA;is closed in $\mathbb{R}^n$.&#xA;:::&lt;/p&gt;&#xA;&lt;p&gt;The naive topological approach doesn&amp;rsquo;t work as this theorem is no longer true if we replace $A$ by an arbitrary continuous map or if we replace $x \ge 0$ by an arbitrary closed set.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

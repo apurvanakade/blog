@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>consciousness on PostDoc Problems</title>
+    <title>Consciousness on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/consciousness/</link>
-    <description>Recent content in consciousness on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Consciousness on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/consciousness/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Dec 2023 14:17:29 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/consciousness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Minimal Setting</title>
+      <link>https://apurvanakade.github.io/blog/random/philosophy/2023-12-12-minimal-setting/</link>
+      <pubDate>Tue, 12 Dec 2023 14:17:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/philosophy/2023-12-12-minimal-setting/</guid>
+      <description>&lt;p&gt;I have a theory about what meditation practice aims to achieve by urging us to &amp;ldquo;let go&amp;rdquo;.&#xA;I believe consciousness or awareness is the bare minimum state of mind required to function.&#xA;It&amp;rsquo;s like the OS kernel (or is the BIOS) that loads when your computer starts, before any other program is loaded in working memory.&#xA;It&amp;rsquo;s the smallest piece of software necessary to indicate that your mind has booted up.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Brain as a Neural Net</title>
       <link>https://apurvanakade.github.io/blog/random/meditation/brain-as-a-neural-net/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/meditation/brain-as-a-neural-net/</guid>
-      <description>We&amp;rsquo;re still struggling to figure out exactly what Consciousness is. One theory that I kinda like (although I have no sense of how correct it is) is that consciousness is a way of approximating the base reality. There is too much data coming in through our senses, and it is impossible for every part of the brain to process everything at the same time. So it creates an approximation, which is perceived in the form of consciousness.</description>
+      <description>&lt;p&gt;We&amp;rsquo;re still struggling to figure out exactly what Consciousness is. One theory that I kinda like (although I have no sense of how correct it is) is that consciousness is a way of approximating the base reality. There is too much data coming in through our senses, and it is impossible for every part of the brain to process everything at the same time. So it creates an approximation, which is perceived in the form of consciousness. We can refine this statement slightly by saying that the brain is approximately a neural net, or some form of a predictive machine. The inputs to the machine come from the senses, the emotional and physical state of the body, the stored memories, and the stored habit patterns, and thoughts, and other higher order stuff that is not accessible to the consciousness and hence cannot be described in words, and the output is prediction of the future.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

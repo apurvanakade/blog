@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/search/</link>
+    <description>Recent content in Search on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Aug 2023 16:37:51 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/search/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Loogle!</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-loogle/</link>
+      <pubDate>Thu, 31 Aug 2023 16:37:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-loogle/</guid>
+      <description>&lt;p&gt;An improved search engine for Lean:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loogle.lean-fro.org/&#34;&gt;https://loogle.lean-fro.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nomeata/loogle&#34;&gt;https://github.com/nomeata/loogle&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t used it yet but it looks promising.&#xA;I personally don&amp;rsquo;t like the search on &lt;a href=&#34;https://leanprover-community.github.io/mathlib4_docs/index.html&#34;&gt;mathlib4_docs&lt;/a&gt; and find it very glitchy, slow, and cumbersome.&#xA;Normally, I just use &lt;code&gt;grep&lt;/code&gt; in VSCode instead, which is better but still very cumbersome and requires a lot of regex jujitsu.&#xA;Hopefully this search is better and more useful.&#xA;Looking forward to trying it out.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

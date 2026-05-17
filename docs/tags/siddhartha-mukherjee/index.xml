@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>siddhartha-mukherjee on PostDoc Problems</title>
+    <title>Siddhartha-Mukherjee on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/siddhartha-mukherjee/</link>
-    <description>Recent content in siddhartha-mukherjee on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Siddhartha-Mukherjee on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/siddhartha-mukherjee/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/siddhartha-mukherjee/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Gene: An Intimate History</title>
       <link>https://apurvanakade.github.io/blog/notes/books/gene/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/gene/</guid>
-      <description>This book is the story of the birth, growth, and future of one of the most powerful and dangerous ideas in the history of science: the “gene,” the fundamental unit of heredity, and the basic unit of all biological information.
-When you read good books, you start immersing yourself into the world of its words. Everytime you open its pages a parallel universe emerges for you transgress. And when the book is really good, you leave a different person.</description>
+      <description>&lt;figure class=&#34;medium right&#34;&gt;&#xA;&lt;a href=&#34;https://en.wikipedia.org/wiki/The_Gene:_An_Intimate_History&#34;&gt;&#xA;   &lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/8/81/The_Gene_An_Intimate_History_cover.jpg&#34;/&gt;&#xA;&lt;/a&gt;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;This book is the story of the birth, growth, and future of one of the most powerful and dangerous ideas in the history of science: the “gene,” the fundamental unit of heredity, and the basic unit of all biological information.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;When you read good books, you start immersing yourself into the world of its words. Everytime you open its pages a parallel universe emerges for you transgress. And when the book is really good, you leave a different person. I used to feel humbled when I read books about &lt;em&gt;space&lt;/em&gt; but I was blind to the magic that is much closer. &lt;em&gt;Humbled&lt;/em&gt; is too weak a word to describe how I feel about the complexity within the molecular world after reading this book. &lt;em&gt;Insignificant&lt;/em&gt; perhaps. But paradoxically all this complexity exists to define &lt;em&gt;me&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

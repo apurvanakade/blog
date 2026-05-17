@@ -4,1025 +4,1185 @@
     <title>Tags on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/</link>
     <description>Recent content in Tags on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Apr 2025 22:41:39 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>dystopia</title>
+      <title>AI</title>
+      <link>https://apurvanakade.github.io/blog/tags/ai/</link>
+      <pubDate>Sat, 26 Apr 2025 22:41:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lean</title>
+      <link>https://apurvanakade.github.io/blog/tags/lean/</link>
+      <pubDate>Sat, 26 Apr 2025 22:41:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/lean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://apurvanakade.github.io/blog/tags/llm/</link>
+      <pubDate>Sat, 26 Apr 2025 22:41:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Russian</title>
+      <link>https://apurvanakade.github.io/blog/tags/russian/</link>
+      <pubDate>Tue, 10 Sep 2024 12:51:09 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/russian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Textbooks</title>
+      <link>https://apurvanakade.github.io/blog/tags/textbooks/</link>
+      <pubDate>Tue, 10 Sep 2024 12:51:09 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/textbooks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>India</title>
+      <link>https://apurvanakade.github.io/blog/tags/india/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/india/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Memories</title>
+      <link>https://apurvanakade.github.io/blog/tags/memories/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/memories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nostalgia</title>
+      <link>https://apurvanakade.github.io/blog/tags/nostalgia/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/nostalgia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abstract Algebra</title>
+      <link>https://apurvanakade.github.io/blog/tags/abstract-algebra/</link>
+      <pubDate>Sat, 08 Jun 2024 12:33:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/abstract-algebra/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Anime</title>
+      <link>https://apurvanakade.github.io/blog/tags/anime/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/anime/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Existential</title>
+      <link>https://apurvanakade.github.io/blog/tags/existential/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/existential/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movie</title>
+      <link>https://apurvanakade.github.io/blog/tags/movie/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/movie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Philosophy</title>
+      <link>https://apurvanakade.github.io/blog/tags/philosophy/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/philosophy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Surreal</title>
+      <link>https://apurvanakade.github.io/blog/tags/surreal/</link>
+      <pubDate>Fri, 09 Feb 2024 07:56:13 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/surreal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sudoku</title>
+      <link>https://apurvanakade.github.io/blog/tags/sudoku/</link>
+      <pubDate>Mon, 08 Jan 2024 00:37:57 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/sudoku/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Japanese</title>
+      <link>https://apurvanakade.github.io/blog/tags/japanese/</link>
+      <pubDate>Mon, 08 Jan 2024 00:20:45 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/japanese/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fantasy</title>
+      <link>https://apurvanakade.github.io/blog/tags/fantasy/</link>
+      <pubDate>Mon, 08 Jan 2024 00:07:56 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/fantasy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Youtube</title>
+      <link>https://apurvanakade.github.io/blog/tags/youtube/</link>
+      <pubDate>Tue, 02 Jan 2024 00:25:50 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/youtube/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Analysis</title>
+      <link>https://apurvanakade.github.io/blog/tags/analysis/</link>
+      <pubDate>Tue, 02 Jan 2024 00:13:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Convex Analysis</title>
+      <link>https://apurvanakade.github.io/blog/tags/convex-analysis/</link>
+      <pubDate>Tue, 02 Jan 2024 00:13:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/convex-analysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Linear Programming</title>
+      <link>https://apurvanakade.github.io/blog/tags/linear-programming/</link>
+      <pubDate>Tue, 02 Jan 2024 00:13:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/linear-programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Netflix</title>
+      <link>https://apurvanakade.github.io/blog/tags/netflix/</link>
+      <pubDate>Tue, 26 Dec 2023 22:44:20 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/netflix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Series</title>
+      <link>https://apurvanakade.github.io/blog/tags/series/</link>
+      <pubDate>Tue, 26 Dec 2023 22:44:20 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Consciousness</title>
+      <link>https://apurvanakade.github.io/blog/tags/consciousness/</link>
+      <pubDate>Tue, 12 Dec 2023 14:17:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/consciousness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Letting-Go</title>
+      <link>https://apurvanakade.github.io/blog/tags/letting-go/</link>
+      <pubDate>Tue, 12 Dec 2023 14:17:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/letting-go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Happiness-Lab</title>
+      <link>https://apurvanakade.github.io/blog/tags/happiness-lab/</link>
+      <pubDate>Tue, 12 Dec 2023 13:41:22 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/happiness-lab/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Podcast</title>
+      <link>https://apurvanakade.github.io/blog/tags/podcast/</link>
+      <pubDate>Tue, 12 Dec 2023 13:41:22 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/podcast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dystopia</title>
       <link>https://apurvanakade.github.io/blog/tags/dystopia/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 12 Dec 2023 09:28:43 +0000</pubDate>
       <guid>https://apurvanakade.github.io/blog/tags/dystopia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sci-fi</title>
+      <title>Sci-Fi</title>
       <link>https://apurvanakade.github.io/blog/tags/sci-fi/</link>
-      <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 12 Dec 2023 09:28:43 +0000</pubDate>
       <guid>https://apurvanakade.github.io/blog/tags/sci-fi/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Very-Bad-Wizards</title>
+      <link>https://apurvanakade.github.io/blog/tags/very-bad-wizards/</link>
+      <pubDate>Tue, 12 Dec 2023 09:28:43 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/very-bad-wizards/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meditation</title>
+      <link>https://apurvanakade.github.io/blog/tags/meditation/</link>
+      <pubDate>Thu, 07 Dec 2023 10:39:27 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/meditation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindfulness</title>
+      <link>https://apurvanakade.github.io/blog/tags/mindfulness/</link>
+      <pubDate>Thu, 07 Dec 2023 10:39:27 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/mindfulness/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Oliver Burkeman</title>
+      <link>https://apurvanakade.github.io/blog/tags/oliver-burkeman/</link>
+      <pubDate>Mon, 27 Nov 2023 07:59:36 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/oliver-burkeman/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Waking Up</title>
+      <link>https://apurvanakade.github.io/blog/tags/waking-up/</link>
+      <pubDate>Mon, 27 Nov 2023 07:59:36 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/waking-up/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Combinatorics</title>
+      <link>https://apurvanakade.github.io/blog/tags/combinatorics/</link>
+      <pubDate>Sun, 26 Nov 2023 12:27:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/combinatorics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Problems</title>
+      <link>https://apurvanakade.github.io/blog/tags/problems/</link>
+      <pubDate>Sun, 26 Nov 2023 12:27:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/problems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Todo</title>
+      <link>https://apurvanakade.github.io/blog/tags/todo/</link>
+      <pubDate>Sun, 26 Nov 2023 12:27:01 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/todo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Beautiful</title>
+      <link>https://apurvanakade.github.io/blog/tags/beautiful/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/beautiful/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Courtroom</title>
+      <link>https://apurvanakade.github.io/blog/tags/courtroom/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/courtroom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Foreign</title>
+      <link>https://apurvanakade.github.io/blog/tags/foreign/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/foreign/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Thriller</title>
+      <link>https://apurvanakade.github.io/blog/tags/thriller/</link>
+      <pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/thriller/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Buddhism</title>
+      <link>https://apurvanakade.github.io/blog/tags/buddhism/</link>
+      <pubDate>Fri, 24 Nov 2023 14:58:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/buddhism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zen</title>
+      <link>https://apurvanakade.github.io/blog/tags/zen/</link>
+      <pubDate>Fri, 24 Nov 2023 14:58:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/zen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Habits</title>
+      <link>https://apurvanakade.github.io/blog/tags/habits/</link>
+      <pubDate>Fri, 24 Nov 2023 10:51:10 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/habits/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Artsy</title>
+      <link>https://apurvanakade.github.io/blog/tags/artsy/</link>
+      <pubDate>Sun, 05 Nov 2023 13:38:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/artsy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Challenging</title>
+      <link>https://apurvanakade.github.io/blog/tags/challenging/</link>
+      <pubDate>Sun, 05 Nov 2023 13:38:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/challenging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Video-Game</title>
+      <link>https://apurvanakade.github.io/blog/tags/video-game/</link>
+      <pubDate>Sun, 05 Nov 2023 13:38:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/video-game/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathblog</title>
+      <link>https://apurvanakade.github.io/blog/tags/mathblog/</link>
+      <pubDate>Wed, 01 Nov 2023 13:21:33 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/mathblog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>https://apurvanakade.github.io/blog/tags/teaching/</link>
+      <pubDate>Wed, 01 Nov 2023 13:18:16 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Visualization</title>
+      <link>https://apurvanakade.github.io/blog/tags/visualization/</link>
+      <pubDate>Wed, 01 Nov 2023 13:18:16 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/visualization/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vscode Extension</title>
+      <link>https://apurvanakade.github.io/blog/tags/vscode-extension/</link>
+      <pubDate>Wed, 01 Nov 2023 13:18:16 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/vscode-extension/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Infinite Series</title>
+      <link>https://apurvanakade.github.io/blog/tags/infinite-series/</link>
+      <pubDate>Thu, 26 Oct 2023 09:01:26 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/infinite-series/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Number Theory</title>
+      <link>https://apurvanakade.github.io/blog/tags/number-theory/</link>
+      <pubDate>Thu, 26 Oct 2023 09:01:26 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/number-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Riemann Zeta</title>
+      <link>https://apurvanakade.github.io/blog/tags/riemann-zeta/</link>
+      <pubDate>Thu, 26 Oct 2023 09:01:26 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/riemann-zeta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Funny</title>
+      <link>https://apurvanakade.github.io/blog/tags/funny/</link>
+      <pubDate>Wed, 18 Oct 2023 16:58:33 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/funny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Movies</title>
+      <link>https://apurvanakade.github.io/blog/tags/movies/</link>
+      <pubDate>Wed, 18 Oct 2023 16:21:12 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/movies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Database</title>
+      <link>https://apurvanakade.github.io/blog/tags/database/</link>
+      <pubDate>Sun, 24 Sep 2023 12:37:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/database/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Essay</title>
+      <link>https://apurvanakade.github.io/blog/tags/essay/</link>
+      <pubDate>Sun, 24 Sep 2023 12:14:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/essay/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>To-Read</title>
+      <link>https://apurvanakade.github.io/blog/tags/to-read/</link>
+      <pubDate>Sun, 24 Sep 2023 12:14:03 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/to-read/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poem</title>
+      <link>https://apurvanakade.github.io/blog/tags/poem/</link>
+      <pubDate>Sat, 16 Sep 2023 20:15:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/poem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Elementary Number Theory</title>
+      <link>https://apurvanakade.github.io/blog/tags/elementary-number-theory/</link>
+      <pubDate>Sun, 10 Sep 2023 15:35:44 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/elementary-number-theory/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://apurvanakade.github.io/blog/tags/ml/</link>
+      <pubDate>Sat, 09 Sep 2023 22:37:41 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/ml/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tactics</title>
+      <link>https://apurvanakade.github.io/blog/tags/tactics/</link>
+      <pubDate>Sat, 09 Sep 2023 22:37:41 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/tactics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Webapp</title>
+      <link>https://apurvanakade.github.io/blog/tags/webapp/</link>
+      <pubDate>Mon, 04 Sep 2023 16:22:19 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/webapp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Boardgames</title>
+      <link>https://apurvanakade.github.io/blog/tags/boardgames/</link>
+      <pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/boardgames/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiking</title>
+      <link>https://apurvanakade.github.io/blog/tags/hiking/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/hiking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Travel</title>
+      <link>https://apurvanakade.github.io/blog/tags/travel/</link>
+      <pubDate>Sat, 02 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/travel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://apurvanakade.github.io/blog/tags/tutorial/</link>
+      <pubDate>Thu, 31 Aug 2023 21:13:45 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Search</title>
+      <link>https://apurvanakade.github.io/blog/tags/search/</link>
+      <pubDate>Thu, 31 Aug 2023 16:37:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/search/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Journal</title>
+      <link>https://apurvanakade.github.io/blog/tags/journal/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/journal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>History of Math</title>
+      <link>https://apurvanakade.github.io/blog/tags/history-of-math/</link>
+      <pubDate>Tue, 29 Aug 2023 09:13:31 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/history-of-math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stoicism</title>
+      <link>https://apurvanakade.github.io/blog/tags/stoicism/</link>
+      <pubDate>Wed, 23 Aug 2023 10:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/stoicism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Resources</title>
+      <link>https://apurvanakade.github.io/blog/tags/resources/</link>
+      <pubDate>Mon, 21 Aug 2023 22:30:11 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/tags/resources/</guid>
+      <description></description>
+    </item>
     <item>
       <title>William-Gibson</title>
       <link>https://apurvanakade.github.io/blog/tags/william-gibson/</link>
       <pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/william-gibson/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>comedy</title>
+      <title>Comedy</title>
       <link>https://apurvanakade.github.io/blog/tags/comedy/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/comedy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>detective</title>
+      <title>Detective</title>
       <link>https://apurvanakade.github.io/blog/tags/detective/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/detective/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>movie</title>
-      <link>https://apurvanakade.github.io/blog/tags/movie/</link>
-      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/movie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>whodunit</title>
+      <title>Whodunit</title>
       <link>https://apurvanakade.github.io/blog/tags/whodunit/</link>
       <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/whodunit/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>korean</title>
+      <title>Korean</title>
       <link>https://apurvanakade.github.io/blog/tags/korean/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/korean/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>noir</title>
+      <title>Noir</title>
       <link>https://apurvanakade.github.io/blog/tags/noir/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/noir/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thriller</title>
-      <link>https://apurvanakade.github.io/blog/tags/thriller/</link>
-      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/thriller/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tragedy</title>
+      <title>Tragedy</title>
       <link>https://apurvanakade.github.io/blog/tags/tragedy/</link>
       <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/tragedy/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Wes-Anderson</title>
       <link>https://apurvanakade.github.io/blog/tags/wes-anderson/</link>
       <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/wes-anderson/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mindfulness</title>
-      <link>https://apurvanakade.github.io/blog/tags/mindfulness/</link>
-      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/mindfulness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>consciousness</title>
-      <link>https://apurvanakade.github.io/blog/tags/consciousness/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/consciousness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>meditation</title>
-      <link>https://apurvanakade.github.io/blog/tags/meditation/</link>
-      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/meditation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anti-meditation</title>
+      <title>Anti-Meditation</title>
       <link>https://apurvanakade.github.io/blog/tags/anti-meditation/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/anti-meditation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>white-noise</title>
+      <title>White-Noise</title>
       <link>https://apurvanakade.github.io/blog/tags/white-noise/</link>
       <pubDate>Fri, 29 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/white-noise/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>biology</title>
+      <title>Biology</title>
       <link>https://apurvanakade.github.io/blog/tags/biology/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/biology/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>genetics</title>
+      <title>Genetics</title>
       <link>https://apurvanakade.github.io/blog/tags/genetics/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/genetics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>non-fiction</title>
+      <title>Non-Fiction</title>
       <link>https://apurvanakade.github.io/blog/tags/non-fiction/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/non-fiction/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science</title>
+      <title>Science</title>
       <link>https://apurvanakade.github.io/blog/tags/science/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/science/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>siddhartha-mukherjee</title>
+      <title>Siddhartha-Mukherjee</title>
       <link>https://apurvanakade.github.io/blog/tags/siddhartha-mukherjee/</link>
       <pubDate>Tue, 26 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/siddhartha-mukherjee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>philosophy</title>
-      <link>https://apurvanakade.github.io/blog/tags/philosophy/</link>
-      <pubDate>Thu, 02 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>drama</title>
+      <title>Drama</title>
       <link>https://apurvanakade.github.io/blog/tags/drama/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/drama/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>japanese</title>
-      <link>https://apurvanakade.github.io/blog/tags/japanese/</link>
-      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/japanese/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wholesome</title>
+      <title>Wholesome</title>
       <link>https://apurvanakade.github.io/blog/tags/wholesome/</link>
       <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/wholesome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robert Wright</title>
       <link>https://apurvanakade.github.io/blog/tags/robert-wright/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/robert-wright/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thinking</title>
+      <title>Thinking</title>
       <link>https://apurvanakade.github.io/blog/tags/thinking/</link>
       <pubDate>Sun, 20 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/thinking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fantasy</title>
-      <link>https://apurvanakade.github.io/blog/tags/fantasy/</link>
-      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/fantasy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sci-fiction</title>
+      <title>Sci-Fiction</title>
       <link>https://apurvanakade.github.io/blog/tags/sci-fiction/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/sci-fiction/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>short stories</title>
+      <title>Short Stories</title>
       <link>https://apurvanakade.github.io/blog/tags/short-stories/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/short-stories/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ted Chiang</title>
       <link>https://apurvanakade.github.io/blog/tags/ted-chiang/</link>
       <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ted-chiang/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>meditation app</title>
+      <title>Meditation App</title>
       <link>https://apurvanakade.github.io/blog/tags/meditation-app/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/meditation-app/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sam Harris</title>
       <link>https://apurvanakade.github.io/blog/tags/sam-harris/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/sam-harris/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>free will</title>
+      <title>Free Will</title>
       <link>https://apurvanakade.github.io/blog/tags/free-will/</link>
       <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/free-will/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>crime</title>
+      <title>Crime</title>
       <link>https://apurvanakade.github.io/blog/tags/crime/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/crime/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>UK</title>
       <link>https://apurvanakade.github.io/blog/tags/uk/</link>
       <pubDate>Sat, 17 Apr 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/uk/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>fiction</title>
+      <title>Fiction</title>
       <link>https://apurvanakade.github.io/blog/tags/fiction/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/fiction/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>magical-realism</title>
+      <title>Magical-Realism</title>
       <link>https://apurvanakade.github.io/blog/tags/magical-realism/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/magical-realism/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Murakami</title>
       <link>https://apurvanakade.github.io/blog/tags/murakami/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/murakami/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>douglas-adams</title>
+      <title>Douglas-Adams</title>
       <link>https://apurvanakade.github.io/blog/tags/douglas-adams/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/douglas-adams/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>science-fiction</title>
+      <title>Science-Fiction</title>
       <link>https://apurvanakade.github.io/blog/tags/science-fiction/</link>
       <pubDate>Tue, 22 Dec 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/science-fiction/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>absurd</title>
+      <title>Absurd</title>
       <link>https://apurvanakade.github.io/blog/tags/absurd/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/absurd/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Camus</title>
       <link>https://apurvanakade.github.io/blog/tags/camus/</link>
       <pubDate>Thu, 24 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/camus/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>comics</title>
+      <title>Comics</title>
       <link>https://apurvanakade.github.io/blog/tags/comics/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/comics/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>introspection</title>
+      <title>Introspection</title>
       <link>https://apurvanakade.github.io/blog/tags/introspection/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/introspection/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self-care</title>
+      <title>Self-Care</title>
       <link>https://apurvanakade.github.io/blog/tags/self-care/</link>
       <pubDate>Sat, 29 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/self-care/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Dostoevsky</title>
       <link>https://apurvanakade.github.io/blog/tags/dostoevsky/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/dostoevsky/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>russian</title>
-      <link>https://apurvanakade.github.io/blog/tags/russian/</link>
-      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/russian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>japan</title>
+      <title>Japan</title>
       <link>https://apurvanakade.github.io/blog/tags/japan/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/japan/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>short</title>
+      <title>Short</title>
       <link>https://apurvanakade.github.io/blog/tags/short/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/short/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>time-travel</title>
+      <title>Time-Travel</title>
       <link>https://apurvanakade.github.io/blog/tags/time-travel/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/time-travel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pedagogy</title>
+      <title>Pedagogy</title>
       <link>https://apurvanakade.github.io/blog/tags/pedagogy/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/pedagogy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>project-next</title>
+      <title>Project-Next</title>
       <link>https://apurvanakade.github.io/blog/tags/project-next/</link>
       <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/project-next/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>radiolab</title>
+      <title>Radiolab</title>
       <link>https://apurvanakade.github.io/blog/tags/radiolab/</link>
       <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/radiolab/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>advice</title>
+      <title>Advice</title>
       <link>https://apurvanakade.github.io/blog/tags/advice/</link>
       <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/advice/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>life</title>
+      <title>Life</title>
       <link>https://apurvanakade.github.io/blog/tags/life/</link>
       <pubDate>Mon, 20 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/life/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Malcolm-Gladwell</title>
       <link>https://apurvanakade.github.io/blog/tags/malcolm-gladwell/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/malcolm-gladwell/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>podcast</title>
-      <link>https://apurvanakade.github.io/blog/tags/podcast/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/podcast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>service-courses</title>
+      <title>Service-Courses</title>
       <link>https://apurvanakade.github.io/blog/tags/service-courses/</link>
       <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/service-courses/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ursula-Le-Guin</title>
       <link>https://apurvanakade.github.io/blog/tags/ursula-le-guin/</link>
       <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ursula-le-guin/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>action</title>
+      <title>Action</title>
       <link>https://apurvanakade.github.io/blog/tags/action/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/action/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>animation</title>
+      <title>Animation</title>
       <link>https://apurvanakade.github.io/blog/tags/animation/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/animation/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ground-breaking</title>
+      <title>Ground-Breaking</title>
       <link>https://apurvanakade.github.io/blog/tags/ground-breaking/</link>
       <pubDate>Sat, 24 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ground-breaking/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TedTalks</title>
       <link>https://apurvanakade.github.io/blog/tags/tedtalks/</link>
       <pubDate>Sun, 04 Aug 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/tedtalks/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Alan Moore</title>
       <link>https://apurvanakade.github.io/blog/tags/alan-moore/</link>
       <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/alan-moore/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coding</title>
+      <title>Coding</title>
       <link>https://apurvanakade.github.io/blog/tags/coding/</link>
       <pubDate>Wed, 08 May 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/coding/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conan Doyle</title>
       <link>https://apurvanakade.github.io/blog/tags/conan-doyle/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/conan-doyle/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>self</title>
+      <title>Self</title>
       <link>https://apurvanakade.github.io/blog/tags/self/</link>
       <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/self/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>shipping-delays</title>
+      <title>Shipping-Delays</title>
       <link>https://apurvanakade.github.io/blog/tags/shipping-delays/</link>
       <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/shipping-delays/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>C.Liu</title>
       <link>https://apurvanakade.github.io/blog/tags/c.liu/</link>
       <pubDate>Sun, 02 Dec 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/c.liu/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>thiller</title>
+      <title>Thiller</title>
       <link>https://apurvanakade.github.io/blog/tags/thiller/</link>
       <pubDate>Mon, 01 Oct 2018 20:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/thiller/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>anime</title>
-      <link>https://apurvanakade.github.io/blog/tags/anime/</link>
-      <pubDate>Wed, 26 Sep 2018 20:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/anime/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cyberpunk</title>
+      <title>Cyberpunk</title>
       <link>https://apurvanakade.github.io/blog/tags/cyberpunk/</link>
       <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/cyberpunk/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>backpacking</title>
+      <title>Backpacking</title>
       <link>https://apurvanakade.github.io/blog/tags/backpacking/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/backpacking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>camping</title>
+      <title>Camping</title>
       <link>https://apurvanakade.github.io/blog/tags/camping/</link>
       <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/camping/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>hiking</title>
-      <link>https://apurvanakade.github.io/blog/tags/hiking/</link>
-      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/hiking/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Clarke</title>
       <link>https://apurvanakade.github.io/blog/tags/clarke/</link>
       <pubDate>Sun, 12 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/clarke/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>farewell</title>
+      <title>Farewell</title>
       <link>https://apurvanakade.github.io/blog/tags/farewell/</link>
       <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/farewell/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vonnegut</title>
       <link>https://apurvanakade.github.io/blog/tags/vonnegut/</link>
       <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/vonnegut/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Asimov</title>
       <link>https://apurvanakade.github.io/blog/tags/asimov/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/asimov/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ineptitude</title>
+      <title>Ineptitude</title>
       <link>https://apurvanakade.github.io/blog/tags/ineptitude/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ineptitude/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>secret-charges</title>
+      <title>Secret-Charges</title>
       <link>https://apurvanakade.github.io/blog/tags/secret-charges/</link>
       <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/secret-charges/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lamott</title>
       <link>https://apurvanakade.github.io/blog/tags/lamott/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/lamott/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>writing</title>
+      <title>Writing</title>
       <link>https://apurvanakade.github.io/blog/tags/writing/</link>
       <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/writing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>biking</title>
+      <title>Biking</title>
       <link>https://apurvanakade.github.io/blog/tags/biking/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/biking/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>doctors</title>
+      <title>Doctors</title>
       <link>https://apurvanakade.github.io/blog/tags/doctors/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/doctors/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Gawande</title>
       <link>https://apurvanakade.github.io/blog/tags/gawande/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/gawande/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hawking</title>
       <link>https://apurvanakade.github.io/blog/tags/hawking/</link>
       <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/hawking/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>funny</title>
-      <link>https://apurvanakade.github.io/blog/tags/funny/</link>
-      <pubDate>Sat, 10 Mar 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/funny/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>memories</title>
-      <link>https://apurvanakade.github.io/blog/tags/memories/</link>
-      <pubDate>Sat, 10 Mar 2018 08:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/memories/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>Ishiguro</title>
       <link>https://apurvanakade.github.io/blog/tags/ishiguro/</link>
       <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ishiguro/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mandel</title>
       <link>https://apurvanakade.github.io/blog/tags/mandel/</link>
       <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/mandel/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>psych</title>
+      <title>Psych</title>
       <link>https://apurvanakade.github.io/blog/tags/psych/</link>
       <pubDate>Thu, 01 Feb 2018 18:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/psych/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>music</title>
+      <title>Music</title>
       <link>https://apurvanakade.github.io/blog/tags/music/</link>
       <pubDate>Wed, 31 Jan 2018 22:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/music/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>insightful</title>
+      <title>Insightful</title>
       <link>https://apurvanakade.github.io/blog/tags/insightful/</link>
       <pubDate>Mon, 22 Jan 2018 20:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/insightful/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>India</title>
-      <link>https://apurvanakade.github.io/blog/tags/india/</link>
-      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/india/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>notes</title>
+      <title>Notes</title>
       <link>https://apurvanakade.github.io/blog/tags/notes/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/notes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dreamlike</title>
+      <title>Dreamlike</title>
       <link>https://apurvanakade.github.io/blog/tags/dreamlike/</link>
       <pubDate>Thu, 11 Jan 2018 23:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/dreamlike/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>paddling</title>
+      <title>Paddling</title>
       <link>https://apurvanakade.github.io/blog/tags/paddling/</link>
       <pubDate>Thu, 04 Jan 2018 23:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/paddling/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>canoeing</title>
+      <title>Canoeing</title>
       <link>https://apurvanakade.github.io/blog/tags/canoeing/</link>
       <pubDate>Mon, 01 Jan 2018 23:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/canoeing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>prep</title>
+      <title>Prep</title>
       <link>https://apurvanakade.github.io/blog/tags/prep/</link>
       <pubDate>Sun, 31 Dec 2017 23:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/prep/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Naipaul</title>
       <link>https://apurvanakade.github.io/blog/tags/naipaul/</link>
       <pubDate>Sat, 30 Dec 2017 09:20:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/naipaul/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mind-blowing</title>
+      <title>Mind-Blowing</title>
       <link>https://apurvanakade.github.io/blog/tags/mind-blowing/</link>
       <pubDate>Fri, 22 Dec 2017 22:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/mind-blowing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>sports</title>
+      <title>Sports</title>
       <link>https://apurvanakade.github.io/blog/tags/sports/</link>
       <pubDate>Fri, 22 Dec 2017 22:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/sports/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>books</title>
+      <title>Books</title>
       <link>https://apurvanakade.github.io/blog/tags/books/</link>
       <pubDate>Thu, 14 Dec 2017 21:15:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/books/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>TED</title>
       <link>https://apurvanakade.github.io/blog/tags/ted/</link>
       <pubDate>Thu, 14 Dec 2017 21:15:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ted/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>chess</title>
+      <title>Chess</title>
       <link>https://apurvanakade.github.io/blog/tags/chess/</link>
       <pubDate>Tue, 12 Dec 2017 12:41:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/chess/</guid>
       <description></description>
     </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>https://apurvanakade.github.io/blog/tags/youtube/</link>
-      <pubDate>Tue, 12 Dec 2017 12:41:13 -0500</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/tags/youtube/</guid>
-      <description></description>
-    </item>
-    
     <item>
       <title>NY</title>
       <link>https://apurvanakade.github.io/blog/tags/ny/</link>
       <pubDate>Sun, 10 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/ny/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>yoga</title>
+      <title>Yoga</title>
       <link>https://apurvanakade.github.io/blog/tags/yoga/</link>
       <pubDate>Sat, 09 Dec 2017 13:12:00 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/yoga/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coffee</title>
+      <title>Coffee</title>
       <link>https://apurvanakade.github.io/blog/tags/coffee/</link>
       <pubDate>Wed, 06 Dec 2017 14:21:13 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/coffee/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hugo</title>
+      <title>Hugo</title>
       <link>https://apurvanakade.github.io/blog/tags/hugo/</link>
       <pubDate>Sat, 11 Nov 2017 12:40:44 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/tags/hugo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

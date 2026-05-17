@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>psych on PostDoc Problems</title>
+    <title>Psych on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/psych/</link>
-    <description>Recent content in psych on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Psych on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Feb 2018 18:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/psych/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2018 18:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/psych/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Know Thyself</title>
       <link>https://apurvanakade.github.io/blog/random/philosophy/know-thyself/</link>
       <pubDate>Thu, 01 Feb 2018 18:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/random/philosophy/know-thyself/</guid>
-      <description>One of the most important lessons of Thinking, Fast and Slow is that our brains are unable to analyze real world data objectively. We alter our memories and retroactively modify our experiences to fit a story. The only solution to this is to keep records and to trust the data.
-For me, the two most easily measurable resources are internet usage and money. After reading the book I was sure I wasn&amp;rsquo;t being honest with myself about these things.</description>
+      <description>&lt;p&gt;One of the most important lessons of &lt;a href=&#34;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555&#34;&gt;Thinking, Fast and Slow&lt;/a&gt; is that our brains are unable to analyze real world data objectively. We alter our memories and retroactively modify our experiences to fit a story. The only solution to this is to keep records and &lt;b&gt;to trust the data&lt;/b&gt;.&lt;/p&gt;&#xA;&lt;p&gt;For me, the two most easily measurable resources are &lt;em&gt;internet usage&lt;/em&gt; and &lt;em&gt;money&lt;/em&gt;. After reading the book I was sure I wasn&amp;rsquo;t being honest with myself about these things.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Thinking, Fast &amp; Slow</title>
       <link>https://apurvanakade.github.io/blog/notes/books/thinking-fast-and-slow/</link>
       <pubDate>Tue, 26 Dec 2017 12:40:44 -0500</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/thinking-fast-and-slow/</guid>
-      <description>Thinking, Fast and Slow in a life changing book written by our lord and savior Daniel Kahneman, Danny Kanny.
-If you haven&amp;rsquo;t read this book you should drop everything that you&amp;rsquo;re doing and start reading it right away. It is extremely well written and easy to read, with short chapters and lucid Hemingway-styled language lacking any pretentiousness.
-Danny Kanny posits a two system model for our minds. The faster system which is also the system truly in charge, Mr.</description>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555&#34;&gt;Thinking, Fast and Slow&lt;/a&gt; in a life changing book written by our lord and savior &lt;a href=&#34;https://en.wikipedia.org/wiki/Daniel_Kahneman&#34;&gt;Daniel Kahneman&lt;/a&gt;, &lt;em&gt;Danny Kanny&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;If you haven&amp;rsquo;t read this book you should drop everything that you&amp;rsquo;re doing and start reading it right away. It is extremely well written and easy to read, with short chapters and lucid Hemingway-styled language lacking any pretentiousness.&lt;/p&gt;&#xA;&lt;p&gt;Danny Kanny posits a &lt;strong&gt;two system model&lt;/strong&gt; for our minds. The faster system which is also the system truly in charge, Mr. &lt;strong&gt;System 1&lt;/strong&gt;, has a lot of tasks, one of them being to make things appear mundane. It is the primary reason why every morning upon waking up you don&amp;rsquo;t fall into an existential crisis, or when you see a flight of stairs you don&amp;rsquo;t start pondering about their true meaning but you simply put one foot in front of the other and get on with it.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

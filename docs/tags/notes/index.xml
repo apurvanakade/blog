@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notes on PostDoc Problems</title>
+    <title>Notes on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/notes/</link>
-    <description>Recent content in notes on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Notes on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting Things Done</title>
       <link>https://apurvanakade.github.io/blog/notes/books/gtd-method/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/gtd-method/</guid>
-      <description>These are some notes I took from the book Getting Things Done by David Allen. Let me first start with the cons of the book. First the book is tediously repetitive, while some repetition is good to drill the concepts deep in your mind, the book overdoes it. Second, the book is clearly intended for people who&amp;rsquo;ve white collar jobs, mostly managers and executives.
-But that does not mean that you cannot gatecrash the party.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/Getting_Things_Done&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/e/e1/Getting_Things_Done.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;p&gt;These are some notes I took from the book &lt;em&gt;Getting Things Done&lt;/em&gt; by David Allen. Let me first start with the cons of the book. First the book is tediously repetitive, while some repetition is good to drill the concepts deep in your mind, the book overdoes it. Second, the book is clearly intended for people who&amp;rsquo;ve white collar jobs, mostly managers and executives.&lt;/p&gt;&#xA;&lt;p&gt;But that does not mean that you cannot gatecrash the party. This book has really good ideas and insights that are helpful in &lt;em&gt;unloading&lt;/em&gt; your mind and bringing order in your day-to-day life. Further David Allen makes it very clear that the &lt;em&gt;GTD&lt;/em&gt; method, is helpful for, but is not the main tool for making decisions about the big things in your life, those are for you, and you alone, to figure out.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

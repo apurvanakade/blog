@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lean on PostDoc Problems</title>
+    <link>https://apurvanakade.github.io/blog/tags/lean/</link>
+    <description>Recent content in Lean on PostDoc Problems</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 Apr 2025 22:41:39 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/lean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Math Arena AI</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2025-04-26-matharenaai/</link>
+      <pubDate>Sat, 26 Apr 2025 22:41:39 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2025-04-26-matharenaai/</guid>
+      <description>&lt;p&gt;I was doing some research for a talk and came across this website for recording AI results on math problems: &lt;a href=&#34;https://matharena.ai/&#34;&gt;https://matharena.ai/&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;LLMs have been getting better and better at solving math problems but there is a worry that all they do is regurgitate what they already know. So, if an AI has seen a problem before you can expect it to solve it but if it hasn&amp;rsquo;t then all bets are off. Many of the progress claims are in fact reporting these memorized solutions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rubik&#39;s Cube in Lean</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2024-11-06-lean-rubiks-cube/</link>
+      <pubDate>Wed, 06 Nov 2024 21:28:19 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2024-11-06-lean-rubiks-cube/</guid>
+      <description>&lt;p&gt;This Github repo contains the proof that there are $2^{12} \times 3^{8} \times 8! \times 11!$ Rubik&amp;rsquo;s cubes:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/vihdzp/rubik-lean4&#34;&gt;https://github.com/vihdzp/rubik-lean4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;What! This is the most amazing thing I&amp;rsquo;ve read in a long time. What is the reason of this number? And it&amp;rsquo;s verified in Lean!!!&lt;/p&gt;&#xA;&lt;img src=&#34;https://media.tenor.com/BHEkb1EYsaMAAAAM/aplausos-clapped.gif&#34; /&gt;</description>
+    </item>
+    <item>
+      <title>Terrence Tao - Lean</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-terrytao/</link>
+      <pubDate>Wed, 01 Nov 2023 13:21:33 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-terrytao/</guid>
+      <description>&lt;p&gt;Terry Tao posted on &lt;a href=&#34;https://mathstodon.xyz/@tao/111287749336059662&#34;&gt;Mastodon&lt;/a&gt; that he found a bug in a proof in one of &lt;a href=&#34;https://arxiv.org/pdf/2310.05328.pdf&#34;&gt;his papers&lt;/a&gt; thanks to trying to formalize it in Lean.&#xA;This is an excellent use case of Lean and tbh the only one that I think is going to be taken seriously for a while.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>PaperProof</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-paperproof/</link>
+      <pubDate>Wed, 01 Nov 2023 13:18:16 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-11-01-paperproof/</guid>
+      <description>&lt;p&gt;This looks like a really cool tool for visualizing proofs in Lean:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/Paper-Proof/paperproof&#34;&gt;https://github.com/Paper-Proof/paperproof&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV&#34;&gt;https://lakesare.brick.do/lean-coq-isabel-and-their-proof-trees-yjnd2O2RgxwV&lt;/a&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/m6MuiHQmULY?si=QvagfImqDGS4qFo_&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;This will probably get unweildy very fast for even moderately-sized proofs.&#xA;But I suspect that it&amp;rsquo;ll be of great help for beginners.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>llmstep and LeanInfer</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-09-llm/</link>
+      <pubDate>Sat, 09 Sep 2023 22:37:41 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-09-llm/</guid>
+      <description>&lt;p&gt;I came across two LLM based tactics for Lean&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/wellecks/llmstep&#34;&gt;llmstep: [L]LM proofstep suggestions in Lean&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/lean-dojo/LeanInfer&#34;&gt;LeanInfer: Neural Network Inference in Lean 4&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;They both use [LeanDojo](2023-09-04 leandojo.qmd) somehow and I don&amp;rsquo;t understand the difference between the two.&#xA;Unfortunately, I do not know enough about LLM and AI to tell if this is actually good or just hot gas.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>LeanDojo</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-04-leandojo/</link>
+      <pubDate>Mon, 04 Sep 2023 16:22:19 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-09-04-leandojo/</guid>
+      <description>&lt;p&gt;This was posted a while back on the Lean Zulip:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://leandojo.org/&#34;&gt;LeanDojo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2306.15626&#34;&gt;LeanDojo: Theorem Proving with Retrieval-Augmented Language Models&#xA;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;According to their description, LeanDojo is an open-source Lean playground consisting of toolkits, data, models, and benchmarks. Plus they also provide an LLM-based prover and a chatGPT plugin.&#xA;All of this looks amazing and something worth learning more about.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Short tactics tutorial</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-tactics/</link>
+      <pubDate>Thu, 31 Aug 2023 21:13:45 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-tactics/</guid>
+      <description>&lt;p&gt;I have always wanted to learn tactics writing in Lean.&#xA;But for whatever reason, none of the tutorials that exist online have been helpful.&#xA;I suspect that the best way to learn to write tactics to play around and modify the existing ones.&#xA;I came across this short, 4-page tactics tutorial that looks promising.&#xA;I&amp;rsquo;ll give it a go when I get some time.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-01-intro&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-01-intro&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-02-demo&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-02-demo&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-03-tactics&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-03-tactics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.vladasedlacek.cz/en/posts/lean-04-linperm&#34;&gt;https://www.vladasedlacek.cz/en/posts/lean-04-linperm&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Loogle!</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-loogle/</link>
+      <pubDate>Thu, 31 Aug 2023 16:37:51 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/lean/2023-08-30-loogle/</guid>
+      <description>&lt;p&gt;An improved search engine for Lean:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://loogle.lean-fro.org/&#34;&gt;https://loogle.lean-fro.org/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nomeata/loogle&#34;&gt;https://github.com/nomeata/loogle&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I haven&amp;rsquo;t used it yet but it looks promising.&#xA;I personally don&amp;rsquo;t like the search on &lt;a href=&#34;https://leanprover-community.github.io/mathlib4_docs/index.html&#34;&gt;mathlib4_docs&lt;/a&gt; and find it very glitchy, slow, and cumbersome.&#xA;Normally, I just use &lt;code&gt;grep&lt;/code&gt; in VSCode instead, which is better but still very cumbersome and requires a lot of regex jujitsu.&#xA;Hopefully this search is better and more useful.&#xA;Looking forward to trying it out.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

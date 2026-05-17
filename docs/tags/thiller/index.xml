@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thiller on PostDoc Problems</title>
+    <title>Thiller on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/thiller/</link>
-    <description>Recent content in thiller on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Thiller on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Oct 2018 20:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/thiller/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Oct 2018 20:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/thiller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Handmaiden</title>
       <link>https://apurvanakade.github.io/blog/notes/movies/the-handmaiden/</link>
       <pubDate>Mon, 01 Oct 2018 20:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/movies/the-handmaiden/</guid>
-      <description>This movie is Rashomon meets Oldboy meets a Tinto Brass.
-There is something disturbing about Korean thriller films. It&amp;rsquo;s perhaps exaggerated by my lack of knowledge of the Korean culture, it feels very alien, disconnected, happenning in a shadow world, fragmented, a snowstorm in a crystal ball.
-In The Handmaiden this is further amplified by the setting. The movie starts with a scene in a poverty-riden Korean, immediately contrasted with a serene dreamlike scene following a lonely car through a famous-five island, on a curving road, through through woods and darkness and distictly Japanese gardens.</description>
+      <description>&lt;div class=&#34;center&#34;&gt;&#xA;  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/whldChqCsYk&#34; frameborder=&#34;0&#34; gesture=&#34;media&#34; allow=&#34;encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;This movie is Rashomon meets Oldboy meets a Tinto Brass.&lt;/p&gt;&#xA;&lt;p&gt;There is something disturbing about Korean thriller films.&#xA;It&amp;rsquo;s perhaps exaggerated by my lack of knowledge of the Korean culture, it feels very alien, disconnected, happenning in a shadow world, fragmented, a snowstorm in a crystal ball.&lt;/p&gt;&#xA;&lt;p&gt;In &lt;em&gt;The Handmaiden&lt;/em&gt; this is further amplified by the setting.&#xA;The movie starts with a scene in a poverty-riden Korean, immediately contrasted with a serene dreamlike scene following a lonely car through a &lt;em&gt;famous-five&lt;/em&gt; island, on a curving road, through through woods and darkness and distictly Japanese gardens.&#xA;The setting is retro, with men driving old Ford motors and wearing striped suits, pretending to be British.&#xA;The lighting is always mellow, gloomy, dark.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

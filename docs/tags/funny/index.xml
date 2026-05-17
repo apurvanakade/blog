@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>funny on PostDoc Problems</title>
+    <title>Funny on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/funny/</link>
-    <description>Recent content in funny on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Funny on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Mar 2018 08:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Oct 2023 16:58:33 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/funny/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How They Fool Ya (live) | Math parody of Hallelujah</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-10-18-patterns-fool-ya/</link>
+      <pubDate>Wed, 18 Oct 2023 16:58:33 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-10-18-patterns-fool-ya/</guid>
+      <description>&lt;p&gt;xD&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/NOCsdhzo6Jg?si=wUVqPw_SDgGHMChv&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    <item>
+      <title>The Tau Manifesto</title>
+      <link>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-tau/</link>
+      <pubDate>Sun, 24 Sep 2023 12:37:29 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/maths--science/popular-science/2023-09-24-tau/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://tauday.com/tau-manifesto&#34;&gt;$\tau$ manifesto&lt;/a&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The Tau Manifesto is dedicated to one of the most important numbers in mathematics, perhaps the most important: the circle constant relating the circumference of a circle to its linear dimension. For millennia, the circle has been considered the most perfect of shapes, and the circle constant captures the geometry of the circle in a single number. Of course, the traditional choice for the circle constant is ($\pi$)—but, as mathematician Bob Palais notes in his delightful article “$\pi$ is Wrong!”, $\pi$ is wrong. It’s time to set things right.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Parking Lots</title>
       <link>https://apurvanakade.github.io/blog/journal/mathcamp/parking-lot/</link>
       <pubDate>Sat, 10 Mar 2018 08:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/journal/mathcamp/parking-lot/</guid>
-      <description>It was the last day of the camp. All the campers were leaving out in busses and cars, being chaperoned off by the staff to the airport at various times during the day. As had been normal for quite a few days now (or was it weeks?), I had slept for 5-6 hours the previous night and yet was wide awake for my driving shifts.
-In a comedy of errors, in the morning I had dropped a camper off whose parents had completely bungled up the departure plan.</description>
+      <description>&lt;p&gt;It was the last day of the camp. All the campers were leaving out in busses and cars, being chaperoned off by the staff to the airport at various times during the day. As had been normal for quite a few days now (or was it weeks?), I had slept for 5-6 hours the previous night and yet was wide awake for my driving shifts.&lt;/p&gt;&#xA;&lt;p&gt;In a comedy of errors, in the morning I had dropped a camper off whose parents had completely bungled up the departure plan. Fortunately, the camper was very mature (more than their parents) and dealt with it in a very cool-headed manner, so I was back in the war room delightfully troubling the poor staff who were managing all the chaos.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

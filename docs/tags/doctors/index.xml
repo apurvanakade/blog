@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>doctors on PostDoc Problems</title>
+    <title>Doctors on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/doctors/</link>
-    <description>Recent content in doctors on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Doctors on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/doctors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/doctors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Checklist Manifesto</title>
       <link>https://apurvanakade.github.io/blog/notes/books/checklist-manifesto/</link>
       <pubDate>Fri, 16 Mar 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/books/checklist-manifesto/</guid>
-      <description>&#34;Man is fallible, but maybe men are less so.&#34; -The Checklist Manifesto It is such a simple idea, and yet so hard to follow. When your work is complicated, involves serious teamwork, needs to be done in a time critical manner, is prone to errors of oversight; make a checklist. Follow it diligently, and upgrade it frequently. The purpose of a checklist is not to replace human thought, but to take care of the trivialities so that the mind can focus on more important things.</description>
+      <description>&lt;figure class=&#34;right xsmall&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;http://atulgawande.com/book/the-checklist-manifesto/&#34;&gt;&#xA;&lt;img src=&#34;http://atulgawande.com/wp-content/uploads/2013/11/71CwWiCJhuL-319x479.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;blockquote&gt;&#xA;&#34;Man is fallible, but maybe men are less so.&#34; &lt;br&gt;&#xA;-The Checklist Manifesto&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It is such a simple idea, and yet so hard to follow. When your work is complicated, involves serious teamwork, needs to be done in a time critical manner, is prone to errors of oversight; make a checklist. Follow it diligently, and upgrade it frequently. The purpose of a checklist is not to replace human thought, but to take care of the trivialities so that the mind can focus on more important things.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Eye Test</title>
       <link>https://apurvanakade.github.io/blog/journal/life@jhu/eye-test/</link>
       <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/journal/life@jhu/eye-test/</guid>
-      <description>I have had glasses ever since I was 10 years old. As a kid I used to wear really thick durable plastic frames, which evolved to metal frames in my teenage years, and then back to durable plastic frames in college. My power used to increase incessantly until I stopped growing and so I&amp;rsquo;ve probably paid a visit to an ophthalmologist every single year of my life in India. Today for the first time I went for an eye check-up in the US.</description>
+      <description>&lt;p&gt;I have had glasses ever since I was 10 years old. As a kid I used to wear really thick durable plastic frames, which evolved to metal frames in my teenage years, and then back to durable plastic frames in college. My power used to increase incessantly until I stopped growing and so I&amp;rsquo;ve probably paid a visit to an ophthalmologist every single year of my life in India. Today for the first time I went for an eye check-up in the US.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

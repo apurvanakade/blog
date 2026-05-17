@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>comics on PostDoc Problems</title>
+    <title>Comics on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/comics/</link>
-    <description>Recent content in comics on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Comics on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/comics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/comics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Umbrella Academy</title>
       <link>https://apurvanakade.github.io/blog/notes/series/theumbrellaacademy/</link>
       <pubDate>Wed, 23 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://apurvanakade.github.io/blog/notes/series/theumbrellaacademy/</guid>
-      <description>I love the adaptations of graphic novels. I love contrasting and comparing the two art forms and seeing how they bring out completely different aspects of the same story.
-The comics are a collection of short stories whereas the series is closer to a novel. In the comics, the characters have very singular personality traits. They are caricatures and not recognizable as human beings. All of them are extremely damaged and there is a singular desire or a past trauma that determines their actions.</description>
+      <description>&lt;figure class=&#34;float left medium&#34;&gt;&#xA;&lt;a target=&#34;_blank&#34; href=&#34;https://en.wikipedia.org/wiki/The_Umbrella_Academy&#34;&gt;&#xA;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/7/76/UmbrellaAcademy.jpg&#34;&gt;&#xA;&lt;/a&gt;&#xA;&lt;/figure&gt;&#xA;&lt;div class=&#34;center&#34;&gt;&#xA;  &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/0DAmWHxeoKw&#34; frameborder=&#34;0&#34; gesture=&#34;media&#34; allow=&#34;encrypted-media&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&lt;p&gt;I love the adaptations of graphic novels. I love contrasting and comparing the two art forms and seeing how they bring out completely different aspects of the same story.&lt;/p&gt;&#xA;&lt;p&gt;The comics are a collection of short stories whereas the series is closer to a novel. In the comics, the characters have very singular personality traits. They are caricatures and not recognizable as human beings. All of them are extremely damaged and there is a singular desire or a past trauma that determines their actions. The series, on the other hand, makes the characters much more human and likable. This is just a novel about weird people, but people nonetheless. In the comics, they&amp;rsquo;re all adults with adult problems whereas in the series everyone is just a grown-up kid.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

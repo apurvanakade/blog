@@ -1,22 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal on PostDoc Problems</title>
+    <title>Journal on PostDoc Problems</title>
     <link>https://apurvanakade.github.io/blog/tags/journal/</link>
-    <description>Recent content in journal on PostDoc Problems</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Journal on PostDoc Problems</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://apurvanakade.github.io/blog/tags/journal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://apurvanakade.github.io/blog/tags/journal/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Talk at NU on Lean</title>
-      <link>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</link>
-      <pubDate>Fri, 11 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://apurvanakade.github.io/blog/maths-science/lean/talk-at-nu-on-lean/</guid>
-      <description>I gave an hour long talk at the NU Math Club yesterday about Lean and theorem proving.
-Things that went well It was fun to talk about Lean and to show examples. The most fun bit was playing with the Lean Chat plugin for VS Code, which has gotten quite good now.
-Things that did not go well It was a bit tedious to talk about Type Theory. I need to find better ways to motivate and explain Type Theory, especially the significance of constructors.</description>
+      <title>Group Exercise</title>
+      <link>https://apurvanakade.github.io/blog/random/stray-thoughts/2023-08-30-group-exercise/</link>
+      <pubDate>Wed, 30 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/2023-08-30-group-exercise/</guid>
+      <description>&lt;p&gt;I like to think that I am generally a very fit person.&#xA;I exercise almost everyday and generally lead an active life.&#xA;Just for fun, I recently tried a Yoga Sculpt class and it kicked my ass.&lt;/p&gt;&#xA;&lt;p&gt;This made me realize two things:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;When working out alone, it&amp;rsquo;s easy to not be fully honest with oneself. I probably take longer breaks, get sidetracked by my phone, or choose lighter weights when I could handle heavier ones.&lt;/li&gt;&#xA;&lt;li&gt;We can often push ourselves more than we think. I never knew an hour-long HIIT session with weights, like Yoga Sculpt, was something I could do. I&amp;rsquo;m surprised I hadn&amp;rsquo;t tried it earlier.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;I once tried a yoga class via livestream, but it didn&amp;rsquo;t feel the same. The poses might have been identical, but the intensity was different.&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Chandrayaan-3</title>
+      <link>https://apurvanakade.github.io/blog/random/stray-thoughts/2023-08-23-chandrayaan-3/</link>
+      <pubDate>Wed, 23 Aug 2023 14:45:49 +0000</pubDate>
+      <guid>https://apurvanakade.github.io/blog/random/stray-thoughts/2023-08-23-chandrayaan-3/</guid>
+      <description>&lt;p&gt;India landed Chandrayaan-3 on the Moon! Amazing!!!&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gvj3w59EaFM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://media.tenor.com/XUAONVsG6qIAAAAC/leonardo-dicaprio-clapping.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
